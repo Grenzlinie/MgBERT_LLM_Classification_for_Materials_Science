@@ -1,2 +1,0 @@
-classification_models/different_BERT/checkpoint/MgBERT.pth filter=lfs diff=lfs merge=lfs -text
-classification_models/different_BERT/checkpoint/prompt_baseline.pth filter=lfs diff=lfs merge=lfs -text

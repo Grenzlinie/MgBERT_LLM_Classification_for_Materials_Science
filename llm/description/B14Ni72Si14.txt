@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B14Ni72Si14 consists of 14% Boron, 72% Nickel, and 14% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Silicon
+
+Element Radius: 117.6 pm
+
+Melting Point: 1687 K
+
+Boiling Point: 3538 K
+
+Density: 2.3290 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.76×10^3 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.19×10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of amorphous metal, which means that it does not have a regular crystal structure. Amorphous metals are often very strong and hard, and they can be used in a variety of applications, such as cutting tools, sports equipment, and medical devices.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co90Mo2Zr8 consists of 90% Cobalt, 2% Molybdenum, and 8% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2896 K
+
+Boiling Point: 4912 K
+
+Density: 10.2 g/cm³
+
+Hardness: 5.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 138 W/(m·K)
+
+Magnetic Susceptibility: -0.8 × 10^-3
+
+Ionization Energy: 684 kJ/mol
+
+Electronegativity: 2.16
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.5 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 4.1 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4 × 10^-3
+
+Ionization Energy: 640 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Co90Mo2Zr8 is a hard and strong material with a high melting point. It is also resistant to corrosion and wear. The alloy is used in a variety of applications, including aerospace, automotive, and medical.
+
+[ANSWER END]

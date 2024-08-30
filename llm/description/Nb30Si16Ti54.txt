@@ -1,0 +1,85 @@
+[ANSWER BEGIN]
+
+Composition Information: [Nb30Si16Ti54 consists of 30% Niobium, 16% Silicon, and 54% Titanium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Niobium
+
+Element Radius: 143 pm
+
+Melting Point: 2477 °C
+
+Boiling Point: 5017 °C
+
+Density: 8.57 g/cm³
+
+Hardness: 70 HV
+
+Electrical Conductivity: 6.7 MS/m
+
+Thermal Conductivity: 53.7 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-4
+
+Ionization Energy: 6.88 eV
+
+Electronegativity: 1.6
+
+Element: Silicon
+
+Element Radius: 111 pm
+
+Melting Point: 1414 °C
+
+Boiling Point: 3265 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 7 Mohs
+
+Electrical Conductivity: 10^-4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.19×10^-4
+
+Ionization Energy: 8.15 eV
+
+Electronegativity: 1.9
+
+Element: Titanium
+
+Element Radius: 147 pm
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.51 g/cm³
+
+Hardness: 90 HV
+
+Electrical Conductivity: 2.33 MS/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2×10^-4
+
+Ionization Energy: 6.82 eV
+
+Electronegativity: 1.5
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Nb30Si16Ti54 is a ternary alloy composed of niobium, silicon, and titanium. It is a high-strength, lightweight alloy with good corrosion resistance and high-temperature strength. The alloy is used in a variety of applications, including aerospace, automotive, and medical devices.
+
+The alloy is typically produced by melting the constituent elements together in a vacuum furnace. The molten alloy is then cast into ingots, which are subsequently rolled or forged into sheet, plate, or other desired shapes.
+
+The properties of the alloy can be tailored by varying the composition of the alloy. For example, increasing the niobium content increases the strength and hardness of the alloy, while increasing the silicon content improves the corrosion resistance.
+
+[ANSWER END]

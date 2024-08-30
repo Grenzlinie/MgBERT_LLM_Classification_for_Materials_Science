@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu0Hf50Ni50 consists of 0% Copper, 50% Hafnium, and 50% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Hafnium
+
+Element Radius: 155 pm
+
+Melting Point: 2233 K
+
+Boiling Point: 4876 K
+
+Density: 13.31 g/cm³
+
+Hardness: 5.5 Mohs
+
+Electrical Conductivity: 3.2×10^6 S/m
+
+Thermal Conductivity: 23.0 W/(m·K)
+
+Magnetic Susceptibility: 1.7×10^-4
+
+Ionization Energy: 658.5 kJ/mol
+
+Electronegativity: 1.3
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.9 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a hafnium-nickel binary alloy. Hafnium and nickel are both transition metals, and they form a solid solution with each other. The alloy is hard and strong, and it has good electrical and thermal conductivity. It is also resistant to corrosion and oxidation. The alloy is used in a variety of applications, including aerospace, automotive, and chemical processing.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Au22.5B10Er67.5 consists of 22.5% Gold, 10% Boron, and 67.5% Erbium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Gold
+
+Element Radius: 144 pm
+
+Melting Point: 1337.33 K
+
+Boiling Point: 3129 K
+
+Density: 19.3 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 4.11×10^7 S/m
+
+Thermal Conductivity: 317 W/(m·K)
+
+Magnetic Susceptibility: -2.84×10^-5
+
+Ionization Energy: 890.1 kJ/mol
+
+Electronegativity: 2.54
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2349 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3
+
+Electrical Conductivity: 1.0×10^-6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: 0.34×10^-5
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Erbium
+
+Element Radius: 176 pm
+
+Melting Point: 1802 K
+
+Boiling Point: 3141 K
+
+Density: 9.066 g/cm³
+
+Hardness: 80 HV
+
+Electrical Conductivity: 1.6×10^6 S/m
+
+Thermal Conductivity: 14.3 W/(m·K)
+
+Magnetic Susceptibility: 3.7×10^-3
+
+Ionization Energy: 589.3 kJ/mol
+
+Electronegativity: 1.24
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a metallic glass. It has a high strength and hardness, and it is also very resistant to wear and corrosion. It is used in a variety of applications, including aerospace, automotive, and medical devices.
+
+[ANSWER END]

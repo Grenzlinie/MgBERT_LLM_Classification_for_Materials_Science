@@ -1,0 +1,147 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni39.8Cu5.97Ti15.92Zr27.86Al9.95Si0.5 consists of 39.8% Nickel, 5.97% Copper, 15.92% Titanium, 27.86% Zirconium, 9.95% Aluminium, and 0.5% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 × 10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.3 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 × 10^6 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8 × 10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.506 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 2.33 × 10^6 S/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2 × 10^-4
+
+Ionization Energy: 658.8 kJ/mol
+
+Electronegativity: 1.54
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 1852 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 5 Mohs
+
+Electrical Conductivity: 1.8 × 10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8 × 10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Aluminium
+
+Element Radius: 1.43 Å
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 × 10^6 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2 × 10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Silicon
+
+Element Radius: 1.17 Å
+
+Melting Point: 1414 °C
+
+Boiling Point: 2355 °C
+
+Density: 2.3290 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.6 × 10^3 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -4.2 × 10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+I do not know.
+
+[ANSWER END]

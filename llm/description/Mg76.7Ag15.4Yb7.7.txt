@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg76.7Ag15.4Yb7.7 consists of 76.7% Magnesium, 15.4% Silver, and 7.7% Ytterbium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 923 K
+
+Boiling Point: 1363 K
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0×10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Silver
+
+Element Radius: 144 pm
+
+Melting Point: 1235 K
+
+Boiling Point: 2435 K
+
+Density: 10.49 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 63.0 MS/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: -2.1×10−5
+
+Ionization Energy: 731 kJ/mol
+
+Electronegativity: 1.93
+
+Element: Ytterbium
+
+Element Radius: 180 pm
+
+Melting Point: 1097 K
+
+Boiling Point: 1469 K
+
+Density: 6.97 g/cm³
+
+Hardness: 1.2 Mohs
+
+Electrical Conductivity: 3.06 MS/m
+
+Thermal Conductivity: 38.5 W/(m·K)
+
+Magnetic Susceptibility: 4.22×10−4
+
+Ionization Energy: 603 kJ/mol
+
+Electronegativity: 1.1
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg76.7Ag15.4Yb7.7 is a promising material for hydrogen storage applications due to its high hydrogen storage capacity and low cost. The alloy has a face-centered cubic (fcc) crystal structure and a density of 1.8 g/cm³. The alloy is also relatively soft and has a low melting point.
+
+[ANSWER END]

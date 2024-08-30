@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Fe71Nb6B23 consists of 71% Iron, 6% Niobium, and 23% Boron]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iron
+
+Element Radius: 1.26 Angstroms
+
+Melting Point: 1538 Celsius Degree
+
+Boiling Point: 2862 Celsius Degree
+
+Density: 7.874 grams per cubic centimeter
+
+Hardness: 490 Vickers
+
+Electrical Conductivity: 10.0 Mega Siemens per meter
+
+Thermal Conductivity: 80.4 Watts per meter-Kelvin
+
+Magnetic Susceptibility: 2.15 x 10^-4
+
+Ionization Energy: 760.2 kilojoules per mole
+
+Electronegativity: 1.83
+
+Element: Niobium
+
+Element Radius: 1.43 Angstroms
+
+Melting Point: 2477 Celsius Degree
+
+Boiling Point: 5127 Celsius Degree
+
+Density: 8.57 grams per cubic centimeter
+
+Hardness: 105 Vickers
+
+Electrical Conductivity: 6.7 Mega Siemens per meter
+
+Thermal Conductivity: 53.7 Watts per meter-Kelvin
+
+Magnetic Susceptibility: -0.46 x 10^-4
+
+Ionization Energy: 652.1 kilojoules per mole
+
+Electronegativity: 1.6
+
+Element: Boron
+
+Element Radius: 0.88 Angstroms
+
+Melting Point: 2300 Celsius Degree
+
+Boiling Point: 4200 Celsius Degree
+
+Density: 2.34 grams per cubic centimeter
+
+Hardness: 9.3 Gigapascals
+
+Electrical Conductivity: 1.0 Mega Siemens per meter
+
+Thermal Conductivity: 27.4 Watts per meter-Kelvin
+
+Magnetic Susceptibility: 0.34 x 10^-4
+
+Ionization Energy: 800.6 kilojoules per mole
+
+Electronegativity: 2.04
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is a type of amorphous metal. It has a high strength and hardness, and it is also very resistant to wear and corrosion. The alloy is also very ductile, which makes it easy to form into complex shapes.
+
+[ANSWER END]

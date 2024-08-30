@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al80Cu20V0 consists of 80% Aluminium, 20% Copper, and 0% Vanadium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/mol
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8×10−6 emu/mol
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Vanadium
+
+Element Radius: 134 pm
+
+Melting Point: 1910 °C
+
+Boiling Point: 3407 °C
+
+Density: 6.11 g/cm³
+
+Hardness: 7 Mohs
+
+Electrical Conductivity: 5.0×106 S/m
+
+Thermal Conductivity: 30.7 W/(m·K)
+
+Magnetic Susceptibility: 6.6×10−6 emu/mol
+
+Ionization Energy: 650.9 kJ/mol
+
+Electronegativity: 2.36
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is not stable because it contains 0% Vanadium.
+
+[ANSWER END]

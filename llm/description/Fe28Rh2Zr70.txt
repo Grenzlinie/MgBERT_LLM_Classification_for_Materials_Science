@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Fe28Rh2Zr70 consists of 28% Iron, 2% Rhodium, and 70% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iron
+
+Element Radius: 1.26 Å
+
+Melting Point: 1538 °C
+
+Boiling Point: 2862 °C
+
+Density: 7.874 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 10.0 MS/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 2.5 × 10−4 emu/g
+
+Ionization Energy: 760.4 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Rhodium
+
+Element Radius: 1.35 Å
+
+Melting Point: 1964 °C
+
+Boiling Point: 3727 °C
+
+Density: 12.41 g/cm³
+
+Hardness: 120 HV
+
+Electrical Conductivity: 21.5 MS/m
+
+Thermal Conductivity: 150 W/(m·K)
+
+Magnetic Susceptibility: −2.5 × 10−6 emu/g
+
+Ionization Energy: 719.7 kJ/mol
+
+Electronegativity: 2.28
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 1855 °C
+
+Boiling Point: 4409 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 130 HV
+
+Electrical Conductivity: 1.79 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.5 × 10−4 emu/g
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Fe28Rh2Zr70 is a metallic glass, which is a non-crystalline solid with a disordered atomic structure. Metallic glasses are typically formed by rapidly cooling a molten alloy, which prevents the atoms from arranging themselves into a regular crystal lattice. This results in a material with a unique combination of properties, including high strength, hardness, and toughness. Metallic glasses are also known for their corrosion resistance and magnetic properties.
+
+[ANSWER END]

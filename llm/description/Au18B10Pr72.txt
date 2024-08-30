@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Au18B10Pr72 consists of 18% Gold, 10% Boron, and 72% Praseodymium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Gold
+
+Element Radius: 144 pm
+
+Melting Point: 1337.33 K
+
+Boiling Point: 3129 K
+
+Density: 19.3 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 4.11×10^7 S/m
+
+Thermal Conductivity: 317 W/(m·K)
+
+Magnetic Susceptibility: -2.84×10^-5
+
+Ionization Energy: 890.1 kJ/mol
+
+Electronegativity: 2.54
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2349 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3
+
+Electrical Conductivity: 1.0×10^-6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: 0.34×10^-5
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Praseodymium
+
+Element Radius: 182 pm
+
+Melting Point: 1208 K
+
+Boiling Point: 3793 K
+
+Density: 6.77 g/cm³
+
+Hardness: 0.4
+
+Electrical Conductivity: 1.4×10^6 S/m
+
+Thermal Conductivity: 12.5 W/(m·K)
+
+Magnetic Susceptibility: 5.7×10^-4
+
+Ionization Energy: 527 kJ/mol
+
+Electronegativity: 1.13
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is expected to be hard and brittle due to the presence of boron. It may also have a high melting point due to the high melting points of its constituent elements. The alloy may be resistant to corrosion due to the presence of gold.
+
+[ANSWER END]

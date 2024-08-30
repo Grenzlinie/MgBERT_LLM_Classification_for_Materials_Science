@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ca11Cu0Mg89 consists of 11% Calcium, 0% Copper, and 89% Magnesium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Calcium
+
+Element Radius: 1.97 Å
+
+Melting Point: 842 °C
+
+Boiling Point: 1484 °C
+
+Density: 1.55 g/cm³
+
+Hardness: 1.75 Mohs
+
+Electrical Conductivity: 29.8 MS/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: -0.72×10^-6 cm³/mol
+
+Ionization Energy: 589.8 kJ/mol
+
+Electronegativity: 1.0
+
+Element: Magnesium
+
+Element Radius: 1.60 Å
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10^-5 cm³/mol
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a magnesium-based alloy with a small amount of calcium added. Magnesium is a lightweight metal with good strength and corrosion resistance. Calcium is added to improve the strength and hardness of the alloy. This alloy is typically used in aerospace applications, where weight is a critical factor.
+
+[ANSWER END]

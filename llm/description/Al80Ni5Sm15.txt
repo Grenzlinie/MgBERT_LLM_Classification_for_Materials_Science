@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al80Ni5Sm15 consists of 80% Aluminium, 5% Nickel, and 15% Samarium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.45×10−4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Samarium
+
+Element Radius: 185 pm
+
+Melting Point: 1072 °C
+
+Boiling Point: 1794 °C
+
+Density: 7.52 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.1 MS/m
+
+Thermal Conductivity: 13.3 W/(m·K)
+
+Magnetic Susceptibility: 1.62×10−4
+
+Ionization Energy: 544.5 kJ/mol
+
+Electronegativity: 1.17
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al80Ni5Sm15 is a lightweight alloy with good strength and corrosion resistance. It is also non-magnetic and has a low coefficient of thermal expansion. This alloy is used in a variety of applications, including aerospace, automotive, and marine.
+
+[ANSWER END]

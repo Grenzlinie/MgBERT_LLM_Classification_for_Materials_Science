@@ -1,0 +1,125 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni4Zr48Cu32Al8Ag8 consists of 4% Nickel, 48% Zirconium, 32% Copper, 8% Aluminium, and 8% Silver]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.902 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 130 HV
+
+Electrical Conductivity: 1.79 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 37–95 HV
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Aluminium
+
+Element Radius: 1.43 Å
+
+Melting Point: 933.47 K
+
+Boiling Point: 2740 K
+
+Density: 2.70 g/cm³
+
+Hardness: 28 HV
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Silver
+
+Element Radius: 1.44 Å
+
+Melting Point: 1234.93 K
+
+Boiling Point: 2435 K
+
+Density: 10.49 g/cm³
+
+Hardness: 25 HV
+
+Electrical Conductivity: 63.0 MS/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: −2.7×10^-5
+
+Ionization Energy: 731.0 kJ/mol
+
+Electronegativity: 1.93
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is likely to be a metallic glass due to the high content of Zr and Cu. Metallic glasses are known for their high strength, hardness, and corrosion resistance. The addition of Ni, Al, and Ag may further improve the properties of the alloy.
+
+[ANSWER END]

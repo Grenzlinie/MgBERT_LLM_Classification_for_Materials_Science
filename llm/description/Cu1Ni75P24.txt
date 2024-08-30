@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu1Ni75P24 consists of 1% Copper, 75% Nickel, and 24% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.823 g/cm³
+
+Hardness: 2.0 Mohs
+
+Electrical Conductivity: 0.01 MS/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -2.7×10^-5
+
+Ionization Energy: 1048.7 kJ/mol
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of ternary alloy, which is composed of three elements: copper, nickel, and phosphorus. The properties of this alloy are determined by the properties of its constituent elements. Copper is a good conductor of electricity and heat, while nickel is a strong and ductile metal. Phosphorus is a non-metallic element that can improve the strength and hardness of the alloy. This alloy is typically used in electrical applications, such as electrical contacts and connectors, due to its good electrical conductivity and resistance to corrosion.
+
+[ANSWER END]

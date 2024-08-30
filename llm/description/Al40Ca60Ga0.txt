@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al40Ca60Ga0 consists of 40% Aluminium, 60% Calcium, and 0% Gallium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 933.47 K
+
+Boiling Point: 2792 K
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Calcium
+
+Element Radius: 194 pm
+
+Melting Point: 1115 K
+
+Boiling Point: 1757 K
+
+Density: 1.55 g/cm³
+
+Hardness: 1.75 Mohs
+
+Electrical Conductivity: 29.8 MS/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: −0.77×10−5
+
+Ionization Energy: 589.8 kJ/mol
+
+Electronegativity: 1.00
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+I do not know.
+
+[ANSWER END]

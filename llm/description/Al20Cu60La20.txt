@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al20Cu60La20 consists of 20% Aluminium, 60% Copper, and 20% Lanthanum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 933.47 K
+
+Boiling Point: 2792 K
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/mol
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8×10−6 emu/mol
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 1193 K
+
+Boiling Point: 3737 K
+
+Density: 6.16 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10−4 emu/mol
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.10
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al20Cu60La20 is a type of metallic glass, also known as an amorphous metal. It is composed of aluminium, copper, and lanthanum. Metallic glasses are characterized by their lack of a regular crystalline structure, which gives them unique properties such as high strength, hardness, and corrosion resistance. They are also known for their ability to be formed into complex shapes.
+
+[ANSWER END]

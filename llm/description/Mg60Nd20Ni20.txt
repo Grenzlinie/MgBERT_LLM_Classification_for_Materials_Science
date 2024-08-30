@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg60Nd20Ni20 consists of 60% Magnesium, 20% Neodymium, and 20% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 923 K
+
+Boiling Point: 1363 K
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0×10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1297 K
+
+Boiling Point: 3347 K
+
+Density: 7.01 g/cm³
+
+Hardness: 3.2 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4×10−4
+
+Ionization Energy: 533 kJ/mol
+
+Electronegativity: 1.14
+
+Element: Nickel
+
+Element Radius: 125 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg60Nd20Ni20 is a lightweight and strong material with good corrosion resistance. It is also known for its high specific strength, which is the ratio of strength to weight. This alloy is often used in aerospace applications, such as aircraft and spacecraft, as well as in automotive and medical applications.
+
+[ANSWER END]

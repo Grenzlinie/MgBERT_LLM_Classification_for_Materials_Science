@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B8Fe79P13 consists of 8% Boron, 79% Iron, and 13% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1811 K
+
+Boiling Point: 3134 K
+
+Density: 7.874 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 1.0×10^7 S/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 2.5×10^-4
+
+Ionization Energy: 760.4 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.82 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -0.72×10^-6
+
+Ionization Energy: 1011.8 kJ/mol
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of amorphous metal, also known as a metallic glass. It is composed of boron, iron, and phosphorus. Amorphous metals are characterized by their lack of a regular crystalline structure, which gives them unique properties such as high strength, hardness, and corrosion resistance. They are also known for their ability to be formed into complex shapes.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B17Ni70.5W12.5 consists of 17% Boron, 70.5% Nickel, and 12.5% Tungsten]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3×10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Tungsten
+
+Element Radius: 139 pm
+
+Melting Point: 3695 K
+
+Boiling Point: 5828 K
+
+Density: 19.25 g/cm³
+
+Hardness: 7.5 Mohs
+
+Electrical Conductivity: 18.6×10^6 S/m
+
+Thermal Conductivity: 173 W/(m·K)
+
+Magnetic Susceptibility: -0.32×10^-6
+
+Ionization Energy: 770 kJ/mol
+
+Electronegativity: 2.36
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of metal-metalloid-metal alloy. It is expected to have high strength, hardness, and wear resistance due to the presence of boron and tungsten. The nickel in the alloy provides ductility and toughness. This alloy is also expected to have good electrical and thermal conductivity due to the presence of nickel and tungsten.
+
+[ANSWER END]

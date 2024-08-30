@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni0Si25Ti75 consists of 0% Nickel, 25% Silicon, and 75% Titanium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Silicon
+
+Element Radius: 111 pm
+
+Melting Point: 1687 K
+
+Boiling Point: 3538 K
+
+Density: 2.33 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.67×10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Titanium
+
+Element Radius: 147 pm
+
+Melting Point: 1941 K
+
+Boiling Point: 3560 K
+
+Density: 4.51 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 2.3×10^6 S/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2×10^-6
+
+Ionization Energy: 658.8 kJ/mol
+
+Electronegativity: 1.54
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a titanium-based alloy with a high silicon content. It is known for its high strength, toughness, and corrosion resistance. The addition of silicon to titanium increases the alloy's strength and hardness, while also improving its oxidation resistance. This alloy is often used in aerospace applications, such as aircraft engines and landing gear, as well as in medical devices and sporting goods.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu33La51.5Sr15.5 consists of 33% Copper, 51.5% Lanthanum, and 15.5% Strontium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 1193 K
+
+Boiling Point: 3737 K
+
+Density: 6.162 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.3×10^-4
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.10
+
+Element: Strontium
+
+Element Radius: 201 pm
+
+Melting Point: 1050 K
+
+Boiling Point: 1655 K
+
+Density: 2.64 g/cm³
+
+Hardness: 1.5 Mohs
+
+Electrical Conductivity: 7.6 MS/m
+
+Thermal Conductivity: 35.4 W/(m·K)
+
+Magnetic Susceptibility: 6.5×10^-4
+
+Ionization Energy: 549.5 kJ/mol
+
+Electronegativity: 0.95
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+I do not know.
+
+[ANSWER END]

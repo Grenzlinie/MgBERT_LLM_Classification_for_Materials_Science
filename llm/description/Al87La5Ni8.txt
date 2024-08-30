@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al87La5Ni8 consists of 87% Aluminium, 5% Lanthanum, and 8% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.162 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 1.7 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.3×10−4 emu/g
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.1
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10−4 emu/g
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al87La5Ni8 is a lightweight and strong material with good corrosion resistance. It is also non-magnetic and has a low thermal expansion coefficient. This alloy is used in a variety of applications, including aerospace, automotive, and marine.
+
+[ANSWER END]

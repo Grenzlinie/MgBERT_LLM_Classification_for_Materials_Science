@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [C12Mo16Ni72 consists of 12% Carbon, 16% Molybdenum, and 72% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Carbon
+
+Element Radius: 70 pm
+
+Melting Point: 3550 °C
+
+Boiling Point: 4827 °C
+
+Density: 2.26 g/cm³
+
+Hardness: 10
+
+Electrical Conductivity: 3 × 10^6 S/m
+
+Thermal Conductivity: 129 W/(m·K)
+
+Magnetic Susceptibility: -2.1 × 10^-5
+
+Ionization Energy: 1086.5 kJ/mol
+
+Electronegativity: 2.5
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2623 °C
+
+Boiling Point: 5560 °C
+
+Density: 10.28 g/cm³
+
+Hardness: 5.5
+
+Electrical Conductivity: 1.89 × 10^7 S/m
+
+Thermal Conductivity: 140 W/(m·K)
+
+Magnetic Susceptibility: 8.6 × 10^-5
+
+Ionization Energy: 702.9 kJ/mol
+
+Electronegativity: 2.16
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4
+
+Electrical Conductivity: 1.45 × 10^7 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10^-5
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of stainless steel. It is known for its high strength and corrosion resistance. It is often used in applications where these properties are important, such as in the construction of bridges, buildings, and ships.
+
+[ANSWER END]

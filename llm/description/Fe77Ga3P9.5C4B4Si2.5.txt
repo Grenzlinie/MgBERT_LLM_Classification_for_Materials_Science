@@ -1,0 +1,147 @@
+[ANSWER BEGIN]
+
+Composition Information: [Fe77Ga3P9.5C4B4Si2.5 consists of 77% Iron, 3% Gallium, 9.5% Phosphorus, 4% Carbon, 4% Boron, and 2.5% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1811 K
+
+Boiling Point: 3134 K
+
+Density: 7.874 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 10.0 MS/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 2.75×10−4 emu/g
+
+Ionization Energy: 760.2 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Gallium
+
+Element Radius: 136 pm
+
+Melting Point: 302.9146 K
+
+Boiling Point: 2477 K
+
+Density: 5.904 g/cm³
+
+Hardness: 18.7 HV
+
+Electrical Conductivity: 3.86 MS/m
+
+Thermal Conductivity: 30.2 W/(m·K)
+
+Magnetic Susceptibility: −1.7×10−6 emu/g
+
+Ionization Energy: 578.8 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.823 g/cm³
+
+Hardness: 105 HV
+
+Electrical Conductivity: 0.01 MS/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: 1.6×10−4 emu/g
+
+Ionization Energy: 1048.9 kJ/mol
+
+Electronegativity: 2.19
+
+Element: Carbon
+
+Element Radius: 77 pm
+
+Melting Point: 3823 K
+
+Boiling Point: 4823 K
+
+Density: 2.267 g/cm³
+
+Hardness: 100 GPa
+
+Electrical Conductivity: 3.5×10−5 MS/m
+
+Thermal Conductivity: 129 W/(m·K)
+
+Magnetic Susceptibility: −2.1×10−5 emu/g
+
+Ionization Energy: 1086.5 kJ/mol
+
+Electronegativity: 2.55
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2349 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 GPa
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: 0.46×10−6 emu/g
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Silicon
+
+Element Radius: 111 pm
+
+Melting Point: 1687 K
+
+Boiling Point: 3538 K
+
+Density: 2.3290 g/cm³
+
+Hardness: 9.8 GPa
+
+Electrical Conductivity: 4.7×10−4 MS/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: −0.6×10−6 emu/g
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is a type of amorphous metal. It has a high strength and hardness, and is also very resistant to wear and corrosion. The alloy is also non-magnetic and has a low thermal conductivity.
+
+[ANSWER END]

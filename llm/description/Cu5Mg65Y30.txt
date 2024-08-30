@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu5Mg65Y30 consists of 5% Copper, 65% Magnesium, and 30% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10^-5
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.9 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6×10^-4
+
+Ionization Energy: 611 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is expected to be lightweight due to the low density of magnesium. It may also have good electrical conductivity due to the presence of copper. The alloy may be hard and strong due to the presence of yttrium. However, the alloy may be susceptible to corrosion due to the presence of magnesium.
+
+[ANSWER END]

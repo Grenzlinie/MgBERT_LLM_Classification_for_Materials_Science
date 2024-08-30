@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr36Ti14Cu12.5 consists of 36% Zirconium, 14% Titanium, and 12.5% Copper]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.13×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Titanium
+
+Element Radius: 147 pm
+
+Melting Point: 1941 K
+
+Boiling Point: 3560 K
+
+Density: 4.506 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 2.33×10^6 S/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2×10^-4
+
+Ionization Energy: 658.8 kJ/mol
+
+Electronegativity: 1.54
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is likely to be a metallic glass, which is a non-crystalline solid metal alloy with a disordered atomic structure. Metallic glasses are typically formed by rapidly cooling a molten alloy, which prevents the atoms from arranging themselves into a regular crystal lattice. This results in a material with a unique combination of properties, including high strength, hardness, and toughness. Metallic glasses are also known for their corrosion resistance and low thermal conductivity.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al69Ge25Ni6 consists of 69% Aluminium, 25% Germanium, and 6% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 933.47 K
+
+Boiling Point: 2792 K
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Germanium
+
+Element Radius: 122 pm
+
+Melting Point: 1211.40 K
+
+Boiling Point: 3106 K
+
+Density: 5.323 g/cm³
+
+Hardness: 6.0 Mohs
+
+Electrical Conductivity: 2.2 MS/m
+
+Thermal Conductivity: 60.2 W/(m·K)
+
+Magnetic Susceptibility: −8.9×10−6
+
+Ionization Energy: 762 kJ/mol
+
+Electronegativity: 2.01
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.45×10−4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a ternary alloy composed of aluminium, germanium, and nickel. It is a relatively new alloy and its properties are still being studied. However, it is known to be strong, lightweight, and corrosion-resistant. It is also a good conductor of electricity and heat. The alloy is typically used in aerospace applications, such as aircraft and spacecraft.
+
+[ANSWER END]

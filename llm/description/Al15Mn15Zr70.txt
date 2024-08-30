@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al15Mn15Zr70 consists of 15% Aluminium, 15% Manganese, and 70% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Manganese
+
+Element Radius: 139 pm
+
+Melting Point: 1246 °C
+
+Boiling Point: 2097 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.93 MS/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 9.2×10−5 emu/g
+
+Ionization Energy: 717.3 kJ/mol
+
+Electronegativity: 1.55
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.51 g/cm³
+
+Hardness: 5 Mohs
+
+Electrical Conductivity: 1.79 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8×10−5 emu/g
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al15Mn15Zr70 is a ternary alloy composed of aluminium, manganese, and zirconium. It is a lightweight and strong alloy with good corrosion resistance. The alloy is typically used in aerospace applications, such as aircraft skins and frames.
+
+[ANSWER END]

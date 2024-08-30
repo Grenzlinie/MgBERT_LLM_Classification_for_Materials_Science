@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co58Ta7B35 consists of 58% Cobalt, 7% Tantalum, and 35% Boron]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Tantalum
+
+Element Radius: 146 pm
+
+Melting Point: 3290 K
+
+Boiling Point: 5730 K
+
+Density: 16.6 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 7.6 MS/m
+
+Thermal Conductivity: 57 W/(m·K)
+
+Magnetic Susceptibility: -0.3 × 10^-3
+
+Ionization Energy: 758 kJ/mol
+
+Electronegativity: 1.5
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2349 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: 0.3 × 10^-3
+
+Ionization Energy: 801 kJ/mol
+
+Electronegativity: 2.04
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Co58Ta7B35 is a hard and brittle material with a high melting point. It is also a good conductor of electricity and heat. The alloy is used in a variety of applications, including cutting tools, wear-resistant coatings, and high-temperature components.
+
+[ANSWER END]

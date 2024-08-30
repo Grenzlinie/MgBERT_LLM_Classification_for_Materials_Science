@@ -1,0 +1,125 @@
+[ANSWER BEGIN]
+
+Composition Information: [Fe63C15Mo14Er2B6 consists of 63% Iron, 15% Carbon, 14% Molybdenum, 2% Erbium, and 6% Boron]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1811 K
+
+Boiling Point: 3134 K
+
+Density: 7.874 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 10.6 MS/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 2.1×10^-4
+
+Ionization Energy: 760.2 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Carbon
+
+Element Radius: 77 pm
+
+Melting Point: 3823 K
+
+Boiling Point: 4300 K
+
+Density: 2.267 g/cm³
+
+Hardness: 10
+
+Electrical Conductivity: 0 MS/m
+
+Thermal Conductivity: 1.51 W/(m·K)
+
+Magnetic Susceptibility: -2.1×10^-5
+
+Ionization Energy: 1086.5 kJ/mol
+
+Electronegativity: 2.55
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2896 K
+
+Boiling Point: 4912 K
+
+Density: 10.28 g/cm³
+
+Hardness: 150 HV
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 138 W/(m·K)
+
+Magnetic Susceptibility: -8.6×10^-5
+
+Ionization Energy: 684.3 kJ/mol
+
+Electronegativity: 2.16
+
+Element: Erbium
+
+Element Radius: 179 pm
+
+Melting Point: 1802 K
+
+Boiling Point: 3141 K
+
+Density: 9.066 g/cm³
+
+Hardness: 80 HV
+
+Electrical Conductivity: 1.6 MS/m
+
+Thermal Conductivity: 14.3 W/(m·K)
+
+Magnetic Susceptibility: 3.7×10^-4
+
+Ionization Energy: 589.3 kJ/mol
+
+Electronegativity: 1.24
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2349 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 GPa
+
+Electrical Conductivity: 1 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: 0.46×10^-5
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of steel called boron steel. Boron steel is a low-alloy steel that contains boron as the main alloying element. Boron is added to steel to improve its hardenability, strength, and toughness. Boron steel is often used in applications where high strength and toughness are required, such as in automotive parts, gears, and bearings.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al40Cu30La30 consists of 40% Aluminium, 30% Copper, and 30% Lanthanum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8×10−6 emu/g
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.162 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10−4 emu/g
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.10
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al40Cu30La30 is a promising material for high-temperature applications due to its high strength and creep resistance. The alloy has a face-centered cubic (FCC) crystal structure and is composed of a solid solution of aluminium, copper, and lanthanum atoms. The addition of lanthanum to the alloy increases the strength and creep resistance by forming a fine dispersion of La2O3 particles in the aluminium matrix. The alloy also has good oxidation resistance and is resistant to corrosion in a variety of environments.
+
+[ANSWER END]

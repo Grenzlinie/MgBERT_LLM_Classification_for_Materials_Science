@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al40Mn25Si35 consists of 40% Aluminium, 25% Manganese, and 35% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Manganese
+
+Element Radius: 139 pm
+
+Melting Point: 1246 °C
+
+Boiling Point: 2097 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.93 MS/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 9.2×10−5 emu/g
+
+Ionization Energy: 717.3 kJ/mol
+
+Electronegativity: 1.55
+
+Element: Silicon
+
+Element Radius: 117.6 pm
+
+Melting Point: 1414 °C
+
+Boiling Point: 3265 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.6×10−4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: −0.46×10−5 emu/g
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al40Mn25Si35 is a lightweight and strong material with good corrosion resistance. It is often used in automotive and aerospace applications. The alloy is also used in the production of electrical conductors and heat exchangers.
+
+[ANSWER END]

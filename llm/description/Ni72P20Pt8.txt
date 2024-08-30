@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni72P20Pt8 consists of 72% Nickel, 20% Phosphorus, and 8% Platinum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.902 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 × 10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Phosphorus
+
+Element Radius: 1.10 Å
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.823 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -0.72 × 10^-4
+
+Ionization Energy: 1048.8 kJ/mol
+
+Electronegativity: 2.19
+
+Element: Platinum
+
+Element Radius: 1.38 Å
+
+Melting Point: 2041.4 K
+
+Boiling Point: 4098 K
+
+Density: 21.45 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 9.66 × 10^6 S/m
+
+Thermal Conductivity: 71.6 W/(m·K)
+
+Magnetic Susceptibility: -0.86 × 10^-4
+
+Ionization Energy: 870.1 kJ/mol
+
+Electronegativity: 2.28
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ni72P20Pt8 is a ternary alloy composed of nickel, phosphorus, and platinum. It is a hard and brittle material with a high melting point. The alloy is resistant to corrosion and wear, and it has good electrical and thermal conductivity. Ni72P20Pt8 is used in a variety of applications, including electrical contacts, spark plugs, and high-temperature coatings.
+
+[ANSWER END]

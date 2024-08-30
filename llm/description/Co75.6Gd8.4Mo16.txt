@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co75.6Gd8.4Mo16 consists of 75.6% Cobalt, 8.4% Gadolinium, and 16% Molybdenum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Gadolinium
+
+Element Radius: 180 pm
+
+Melting Point: 1585 K
+
+Boiling Point: 3273 K
+
+Density: 7.9 g/cm³
+
+Hardness: 2.0 Mohs
+
+Electrical Conductivity: 0.8 MS/m
+
+Thermal Conductivity: 10.6 W/(m·K)
+
+Magnetic Susceptibility: 2.0 × 10^-3
+
+Ionization Energy: 593 kJ/mol
+
+Electronegativity: 1.2
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2896 K
+
+Boiling Point: 4912 K
+
+Density: 10.2 g/cm³
+
+Hardness: 5.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 144 W/(m·K)
+
+Magnetic Susceptibility: -0.7 × 10^-6
+
+Ionization Energy: 702 kJ/mol
+
+Electronegativity: 2.16
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Co75.6Gd8.4Mo16 is a magnetic alloy. It is composed of a mixture of cobalt, gadolinium, and molybdenum. The alloy has a high Curie temperature, which means that it can be magnetized at room temperature. The alloy is also hard and wear-resistant.
+
+[ANSWER END]

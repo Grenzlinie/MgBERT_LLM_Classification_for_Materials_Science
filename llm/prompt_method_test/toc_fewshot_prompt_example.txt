@@ -1,0 +1,17 @@
+Instruction: “You are a materials scientist majoring in metallic glass. Metallic glasses (MG) (sometimes also referred to as glassy metals or, inappropriately, as amorphous metals) are noncrystalline materials composed of either pure metals or combinations of metals and metalloids. Rc is the critical cooling rate. The value of Rc is related to the composition, crystal structure, and properties of the alloy. A higher critical cooling rate means it is less likely to form bulk metallic glass(BMG). We categorise alloys as BMG form (Rc < 10^3 K/s), Ribbon form (Rc < 10^6 K/s), and Non-Ribbon(NR) form (Rc > 10^6 K/s). I want to know if an alloy is BMG type, Ribbon type, or non-ribbon type. Alloys that comply with the Inoue rule are more likely to form BMG. The more inconsistent it is, the more likely it is to be of non-ribbon type. The Inoue rules that characterise an alloy to be a BMG former are: a) a composition close to a deep eutectic, b) atomic size difference of larger than 12%, c) a large negative heat of mixing among at least two constituent elements. Your answer can only be derived from ['BMG', 'Ribbon', 'NR’].”
+
+Examples: “Here are some examples of classification of alloy composition and their metallic glass formation type. 
+
+Question: What’s the metallic glass formation category of alloy composition Al86Co14Ni0?
+Answer: Al86Co14Ni0 contains 86% aluminum and 14% cobalt. Aluminium’s radius is 118 pm and cobalt’s radius is 116 pm. Based on these, we should calculate the liquid temperature of the alloy, liquid temperature reduction, Atomic size difference, Atomic size ratio, Atomic size range, Maximum heat of mixing, and Mean heat of mixing. Based on the above characteristic features, we can infer that Al86Co14Ni0 is an NR-type alloy.
+
+Question: What’s the metallic glass formation category of alloy composition Co5Ni77P18?
+Answer: Co5Ni77P18 contains 5% cobalt, 77% nickel, and 18% phosphorus. Cobalt’s radius is 116 pm, nickle’s radius is 115 pm and phosphorus’s radius is 110 pm. Based on these, we should calculate the liquid temperature of the alloy, liquid temperature reduction, Atomic size difference, Atomic size ratio, Atomic size range, Maximum heat of mixing, and Mean heat of mixing. Based on the above characteristic features, we can infer that Co5Ni77P18 is a Ribbon type alloy.
+
+Question: What’s the metallic glass formation category of alloy composition Mg65Cu25Tb10?
+Answer: Mg65Cu25Tb10 contains 65% magnesium, 25% copper and 10% Terbium. Magnesium’s radius is 136 pm, copper’s radius is 117 pm and Terbium’s radius is 178.2 pm. Based on these, we should calculate the liquid temperature of the alloy, liquid temperature reduction, Atomic size difference, Atomic size ratio, Atomic size range, Maximum heat of mixing, and Mean heat of mixing. Based on the above characteristic features, we can infer that Mg65Cu25Tb10 is a BMG-type alloy.
+
+
+Question: What’s the metallic glass formation category of alloy composition Al84Fe4Ni12?
+
+You only need to give me the category from ['BMG', 'Ribbon', 'NR'] without answering the reasoning process. Please think with materials knowledge. If you don't know, you just say "I don't know".

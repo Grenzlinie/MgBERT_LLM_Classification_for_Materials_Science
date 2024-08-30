@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni45V10Zr45 consists of 45% Nickel, 10% Vanadium, and 45% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.902 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 × 10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.3 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Vanadium
+
+Element Radius: 1.34 Å
+
+Melting Point: 2183 K
+
+Boiling Point: 3680 K
+
+Density: 6.11 g/cm³
+
+Hardness: 7.0 Mohs
+
+Electrical Conductivity: 5.0 × 10^6 S/m
+
+Thermal Conductivity: 30.7 W/(m·K)
+
+Magnetic Susceptibility: 6.4 × 10^-4
+
+Ionization Energy: 650.9 kJ/mol
+
+Electronegativity: 2.33
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 1.8 × 10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4 × 10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ni45V10Zr45 is a ternary alloy composed of nickel, vanadium, and zirconium. It is a relatively new alloy, and its properties are still being studied. However, it is known to be strong, hard, and corrosion-resistant. The alloy is also lightweight, making it a good choice for applications where weight is a concern.
+
+[ANSWER END]

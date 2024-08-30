@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni5Si10Ti85 consists of 5% Nickel, 10% Silicon, and 85% Titanium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.902 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 × 10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.3 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Silicon
+
+Element Radius: 1.17 Å
+
+Melting Point: 1687 K
+
+Boiling Point: 3538 K
+
+Density: 2.3290 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1 × 10^-4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.6 × 10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1941 K
+
+Boiling Point: 3560 K
+
+Density: 4.506 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 2.3 × 10^6 S/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2 × 10^-4
+
+Ionization Energy: 658.8 kJ/mol
+
+Electronegativity: 1.54
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ni5Si10Ti85 is a titanium-based alloy with nickel and silicon as alloying elements. It is a lightweight, high-strength alloy with good corrosion resistance and weldability. The alloy is used in a variety of applications, including aerospace, automotive, and medical devices.
+
+[ANSWER END]

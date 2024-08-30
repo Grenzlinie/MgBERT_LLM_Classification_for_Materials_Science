@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu61.6Ni18.4P20 consists of 61.6% Copper, 18.4% Nickel, and 20% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.82 g/cm³
+
+Hardness: 2.0 Mohs
+
+Electrical Conductivity: 0.01 MS/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -1.6×10^-4
+
+Ionization Energy: 1048.7 kJ/mol
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of phosphor bronze, which is a copper-based alloy with tin and phosphorus as the main alloying elements. It has good strength, hardness, and wear resistance, as well as good corrosion resistance. It is often used in bearings, gears, and springs.
+
+[ANSWER END]

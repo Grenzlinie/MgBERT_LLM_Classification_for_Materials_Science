@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al85La7.5Mo7.5 consists of 85% Aluminium, 7.5% Lanthanum, and 7.5% Molybdenum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.162 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10−4 emu/g
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.1
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2623 °C
+
+Boiling Point: 4639 °C
+
+Density: 10.28 g/cm³
+
+Hardness: 5.5 Mohs
+
+Electrical Conductivity: 17.8 MS/m
+
+Thermal Conductivity: 144 W/(m·K)
+
+Magnetic Susceptibility: −8.6×10−6 emu/g
+
+Ionization Energy: 702.9 kJ/mol
+
+Electronegativity: 2.16
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al85La7.5Mo7.5 is a lightweight and strong material with good corrosion resistance. It is also has a high melting point and a low coefficient of thermal expansion. This alloy is used in a variety of applications, including aerospace, automotive, and marine.
+
+[ANSWER END]

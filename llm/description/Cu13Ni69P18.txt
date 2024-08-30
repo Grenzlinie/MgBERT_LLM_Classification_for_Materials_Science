@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu13Ni69P18 consists of 13% Copper, 69% Nickel, and 18% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.90 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 44.1 °C
+
+Boiling Point: 280 °C
+
+Density: 1.82 g/cm³
+
+Hardness: 2.0 Mohs
+
+Electrical Conductivity: 0.01 MS/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -1.6×10^-4
+
+Ionization Energy: 1048.8 kJ/mol
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of phosphor bronze, which is a copper-based alloy with tin and phosphorus as the main alloying elements. Phosphor bronze is known for its high strength, corrosion resistance, and wear resistance. It is often used in electrical applications, such as springs, bearings, and electrical contacts.
+
+[ANSWER END]

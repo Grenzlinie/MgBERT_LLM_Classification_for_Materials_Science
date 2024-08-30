@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al11La87Ni2 consists of 11% Aluminium, 87% Lanthanum, and 2% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/mol
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.162 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 1.78 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10−4 emu/mol
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.1
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.45×10−4 emu/mol
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al11La87Ni2 is a rare-earth metal alloy that exhibits a combination of unique properties due to the presence of lanthanum. Lanthanum is known for its high reactivity and malleability, while aluminium and nickel contribute to the alloy's strength and corrosion resistance. This alloy is characterized by its low density, high thermal conductivity, and good mechanical properties. It is often used in high-temperature applications, such as jet engines and rocket nozzles, due to its ability to withstand extreme temperatures and harsh environments. Additionally, the alloy possesses excellent oxidation resistance and creep strength, making it suitable for use in demanding industrial applications.
+
+[ANSWER END]

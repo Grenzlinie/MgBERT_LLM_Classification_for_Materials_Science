@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni45Si10Ti45 consists of 45% Nickel, 10% Silicon, and 45% Titanium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 × 10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.3 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Silicon
+
+Element Radius: 1.17 Å
+
+Melting Point: 1414 °C
+
+Boiling Point: 2355 °C
+
+Density: 2.3290 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.0 × 10^-4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.4 × 10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.506 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 2.3 × 10^6 S/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2 × 10^-4
+
+Ionization Energy: 658.8 kJ/mol
+
+Electronegativity: 1.54
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of shape memory alloy. It has the ability to return to its original shape after being deformed. This is due to the fact that the alloy undergoes a phase transformation when it is heated or cooled. The phase transformation causes the atoms in the alloy to rearrange themselves, which results in a change in the shape of the alloy.
+
+[ANSWER END]

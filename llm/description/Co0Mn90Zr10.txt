@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co0Mn90Zr10 consists of 0% Cobalt, 90% Manganese, and 10% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Manganese
+
+Element Radius: 1.39 Å
+
+Melting Point: 1246 °C
+
+Boiling Point: 2100 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.99 × 10^6 S/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 1.5 × 10^-4 emu/g
+
+Ionization Energy: 7.434 eV
+
+Electronegativity: 1.55
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 1855 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.51 g/cm³
+
+Hardness: 5 Mohs
+
+Electrical Conductivity: 1.72 × 10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.5 × 10^-4 emu/g
+
+Ionization Energy: 6.844 eV
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a mixture of manganese and zirconium. It is expected to have a high melting point and a high boiling point. It is also expected to be hard and have a high electrical conductivity. The alloy is also expected to be magnetic.
+
+[ANSWER END]

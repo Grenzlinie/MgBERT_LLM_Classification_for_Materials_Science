@@ -1,0 +1,87 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr55.8Ni24.8Al19.4 consists of 55.8% Zirconium, 24.8% Nickel, and 19.4% Aluminium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.62×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.9 W/(m·K)
+
+Magnetic Susceptibility: 5.45×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 933.47 K
+
+Boiling Point: 2519 K
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 3.77×10^7 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of bulk metallic glass (BMG). BMGs are a class of metallic alloys that exhibit a glassy structure, meaning they lack the long-range order of crystalline materials. This unique structure gives BMGs a number of interesting properties, including high strength, toughness, and corrosion resistance.
+
+BMGs are typically formed by rapidly cooling a molten alloy from a high temperature to a low temperature, preventing the atoms from arranging themselves into a crystalline structure. This process is known as melt spinning.
+
+The properties of BMGs can be tailored by varying the composition of the alloy. For example, adding more zirconium to the alloy can increase its strength and toughness, while adding more nickel can improve its corrosion resistance.
+
+BMGs are still a relatively new class of materials, and researchers are still working to understand their properties and potential applications. However, BMGs have already shown promise for use in a variety of applications, including aerospace, automotive, and medical devices.
+
+[ANSWER END]

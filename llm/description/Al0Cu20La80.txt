@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al0Cu20La80 consists of 0% Aluminium, 20% Copper, and 80% Lanthanum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 1193 K
+
+Boiling Point: 3737 K
+
+Density: 6.162 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 18.1 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.3×10^-4
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.10
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is not stable at room temperature. It is a metastable alloy that can be formed by rapid solidification. The alloy is very hard and brittle. It has a high melting point and a low thermal conductivity. The alloy is also resistant to corrosion.
+
+[ANSWER END]

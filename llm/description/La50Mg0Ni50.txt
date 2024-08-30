@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [La50Mg0Ni50 consists of 50% Lanthanum, 0% Magnesium, and 50% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.162 g/cm³
+
+Hardness: Mohs 2.5
+
+Electrical Conductivity: 1.9 × 10^6 S/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.4 × 10^-4
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.1
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: Mohs 4
+
+Electrical Conductivity: 1.4 × 10^7 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+La50Mg0Ni50 is a binary alloy composed of lanthanum and nickel. It is a hard and brittle material with a high melting point. The alloy is also resistant to corrosion and oxidation. La50Mg0Ni50 is used in a variety of applications, including high-temperature applications, electrical contacts, and wear-resistant coatings.
+
+[ANSWER END]

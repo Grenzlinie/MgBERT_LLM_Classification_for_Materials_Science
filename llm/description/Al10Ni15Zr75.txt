@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al10Ni15Zr75 consists of 10% Aluminium, 15% Nickel, and 75% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.45×10−4 emu/g
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 1.8 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10−4 emu/g
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al10Ni15Zr75 is a type of amorphous metal. It has a high strength and hardness, and is also resistant to corrosion and wear. The alloy is also lightweight and has a low thermal conductivity. These properties make it a good choice for use in a variety of applications, including aerospace, automotive, and medical devices.
+
+[ANSWER END]

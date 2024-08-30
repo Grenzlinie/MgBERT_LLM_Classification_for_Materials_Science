@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ca50Cu20Mg30 consists of 50% Calcium, 20% Copper, and 30% Magnesium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Calcium
+
+Element Radius: 1.97 Å
+
+Melting Point: 842 °C
+
+Boiling Point: 1484 °C
+
+Density: 1.55 g/cm³
+
+Hardness: 1.75 Mohs
+
+Electrical Conductivity: 2.82 × 10^7 S/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: -0.72 × 10^-6 cm³/mol
+
+Ionization Energy: 589.8 kJ/mol
+
+Electronegativity: 1.0
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 5.96 × 10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -0.91 × 10^-6 cm³/mol
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.9
+
+Element: Magnesium
+
+Element Radius: 1.60 Å
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.74 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 2.2 × 10^7 S/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.22 × 10^-5 cm³/mol
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ca50Cu20Mg30 is a ternary alloy composed of calcium, copper, and magnesium. It is a lightweight alloy with a density of approximately 2.5 g/cm³. The alloy has a high strength-to-weight ratio and is resistant to corrosion. It is also a good conductor of electricity and heat. The alloy is used in a variety of applications, including aerospace, automotive, and marine.
+
+[ANSWER END]

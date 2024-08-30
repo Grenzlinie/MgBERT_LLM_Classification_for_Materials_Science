@@ -1,0 +1,169 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ti41.5Zr2.5Hf5Cu37.5Ni7.5Si1Sn5 consists of 41.5% Titanium, 2.5% Zirconium, 5% Hafnium, 37.5% Copper, 7.5% Nickel, 1% Silicon, and 5% Tin]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.506 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 2.34 MS/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: -1.75×10−6
+
+Ionization Energy: 6.82 eV
+
+Electronegativity: 1.54
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 1852 °C
+
+Boiling Point: 4409 °C
+
+Density: 6.52 g/cm³
+
+Hardness: 80 HV
+
+Electrical Conductivity: 1.72 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8×10−6
+
+Ionization Energy: 6.63 eV
+
+Electronegativity: 1.33
+
+Element: Hafnium
+
+Element Radius: 1.59 Å
+
+Melting Point: 2233 °C
+
+Boiling Point: 5400 °C
+
+Density: 13.31 g/cm³
+
+Hardness: 100 HV
+
+Electrical Conductivity: 0.78 MS/m
+
+Thermal Conductivity: 23.0 W/(m·K)
+
+Magnetic Susceptibility: 3.2×10−6
+
+Ionization Energy: 6.82 eV
+
+Electronegativity: 1.3
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 37 HV
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10−6
+
+Ionization Energy: 7.72 eV
+
+Electronegativity: 1.9
+
+Element: Nickel
+
+Element Radius: 1.25 Å
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.90 g/cm³
+
+Hardness: 70 HV
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10−6
+
+Ionization Energy: 7.64 eV
+
+Electronegativity: 1.91
+
+Element: Silicon
+
+Element Radius: 1.17 Å
+
+Melting Point: 1414 °C
+
+Boiling Point: 2355 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 90 HV
+
+Electrical Conductivity: 4.6×10−4 MS/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10−6
+
+Ionization Energy: 8.15 eV
+
+Electronegativity: 1.9
+
+Element: Tin
+
+Element Radius: 1.41 Å
+
+Melting Point: 232 °C
+
+Boiling Point: 2270 °C
+
+Density: 7.31 g/cm³
+
+Hardness: 18 HV
+
+Electrical Conductivity: 0.91 MS/m
+
+Thermal Conductivity: 66.6 W/(m·K)
+
+Magnetic Susceptibility: -1.2×10−6
+
+Ionization Energy: 7.34 eV
+
+Electronegativity: 1.96
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a high-strength, high-temperature material that is used in a variety of applications, including aerospace, automotive, and medical. It is also used in the production of cutting tools and other wear-resistant materials. The alloy is composed of a mixture of titanium, zirconium, hafnium, copper, nickel, silicon, and tin. The combination of these elements gives the alloy a high strength-to-weight ratio, excellent corrosion resistance, and good wear resistance. The alloy is also very hard and has a high melting point.
+
+[ANSWER END]

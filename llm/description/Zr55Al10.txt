@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr55Al10 consists of 55% Zirconium and 10% Aluminium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4409 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.62×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 3.77×10^7 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+Zr55Al10 is a metallic glass alloy. It has a high strength and hardness, and is also very corrosion resistant. It is used in a variety of applications, including aerospace, automotive, and medical.
+
+[ANSWER END]

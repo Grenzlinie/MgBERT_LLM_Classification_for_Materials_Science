@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [C0Ni80Si20 consists of 0% Carbon, 80% Nickel, and 20% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10−4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Silicon
+
+Element Radius: 117.6 pm
+
+Melting Point: 1687 K
+
+Boiling Point: 3538 K
+
+Density: 2.3290 g/cm³
+
+Hardness: 9.0 GPa
+
+Electrical Conductivity: 9.2 × 10−4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: −0.46 × 10−5
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a nickel-silicon alloy. It is a hard and strong alloy with good corrosion resistance. It is used in a variety of applications, including electrical contacts, heating elements, and chemical processing equipment.
+
+[ANSWER END]

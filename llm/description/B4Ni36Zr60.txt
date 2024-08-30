@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B4Ni36Zr60 consists of 4% Boron, 36% Nickel, and 60% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10⁻⁶
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10⁻⁶
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 1.8 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.5×10⁻⁶
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is likely to be a metallic glass, as it contains a high proportion of Zr and Ni, which are both glass-forming elements. Metallic glasses are typically hard, brittle, and corrosion-resistant. They are also known for their high strength and toughness.
+
+[ANSWER END]

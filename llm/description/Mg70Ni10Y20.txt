@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg70Ni10Y20 consists of 70% Magnesium, 10% Nickel, and 20% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 1.9 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.0 × 10−4
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg70Ni10Y20 is a lightweight and strong material with good corrosion resistance. It is also non-magnetic and has a low thermal expansion coefficient. This alloy is used in a variety of applications, including aerospace, automotive, and medical devices.
+
+[ANSWER END]

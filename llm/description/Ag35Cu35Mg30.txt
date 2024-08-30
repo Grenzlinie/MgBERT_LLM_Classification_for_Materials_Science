@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ag35Cu35Mg30 consists of 35% Silver, 35% Copper, and 30% Magnesium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Silver
+
+Element Radius: 144 pm
+
+Melting Point: 961.78 °C
+
+Boiling Point: 2212 °C
+
+Density: 10.49 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 63.0 × 10^6 S/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: -2.06 × 10^-6
+
+Ionization Energy: 731 kJ/mol
+
+Electronegativity: 1.93
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.0
+
+Electrical Conductivity: 59.6 × 10^6 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.4 × 10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 22.6 × 10^6 S/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.22 × 10^-5
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ag35Cu35Mg30 is a ternary alloy composed of silver, copper, and magnesium. It is a relatively soft and ductile alloy with a low melting point. The alloy is often used in electrical applications due to its high electrical conductivity. It is also used in jewelry and coinage.
+
+[ANSWER END]

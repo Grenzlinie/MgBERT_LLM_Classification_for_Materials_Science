@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co84Cr10Zr6 consists of 84% Cobalt, 10% Chromium, and 6% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Chromium
+
+Element Radius: 128 pm
+
+Melting Point: 2180 K
+
+Boiling Point: 2944 K
+
+Density: 7.19 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 9.2 MS/m
+
+Thermal Conductivity: 93.7 W/(m·K)
+
+Magnetic Susceptibility: 3.5 × 10^-4
+
+Ionization Energy: 658 kJ/mol
+
+Electronegativity: 1.66
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.51 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 4.1 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.8 × 10^-4
+
+Ionization Energy: 640 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a hard and wear-resistant material. It is often used in applications where high strength and toughness are required, such as in cutting tools, dies, and molds. The alloy is also corrosion-resistant and has good electrical and thermal conductivity.
+
+[ANSWER END]

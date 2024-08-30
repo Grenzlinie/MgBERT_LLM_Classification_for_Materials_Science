@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al96Co0Mn4 consists of 96% Aluminium, 0% Cobalt, and 4% Manganese]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Manganese
+
+Element Radius: 139 pm
+
+Melting Point: 1246 °C
+
+Boiling Point: 2060 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.93 MS/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 9.1×10−5 emu/g
+
+Ionization Energy: 717.3 kJ/mol
+
+Electronegativity: 1.55
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of aluminium alloy. It is lightweight and has good corrosion resistance. It is also strong and has a high melting point. This alloy is often used in aerospace applications, such as aircraft and spacecraft.
+
+[ANSWER END]

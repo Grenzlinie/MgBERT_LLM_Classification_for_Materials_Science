@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg92.5Nd7.5Ni0 consists of 92.5% Magnesium, 7.5% Neodymium, and 0% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: 3.2 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4 × 10−4
+
+Ionization Energy: 533 kJ/mol
+
+Electronegativity: 1.14
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg92.5Nd7.5Ni0 is a magnesium-based alloy with a small amount of neodymium added. Neodymium is a rare earth metal that is known to improve the strength and corrosion resistance of magnesium alloys. This alloy is typically used in applications where high strength and corrosion resistance are required, such as in the aerospace and automotive industries.
+
+[ANSWER END]

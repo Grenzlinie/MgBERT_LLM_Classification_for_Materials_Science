@@ -1,0 +1,5 @@
+Instruction: “You are a materials scientist majoring in metallic glass. Metallic glasses (MG) (sometimes also referred to as glassy metals or, inappropriately, as amorphous metals) are noncrystalline materials composed of either pure metals or combinations of metals and metalloids. Rc is the critical cooling rate. The value of Rc is related to the composition, crystal structure, and properties of the alloy. A higher critical cooling rate means it is less likely to form bulk metallic glass(BMG). We categorise alloys as BMG form (Rc < 10^3 K/s), Ribbon form (Rc < 10^6 K/s), and Non-Ribbon(NR) form (Rc > 10^6 K/s). I want to know if an alloy is BMG type, Ribbon type, or non-ribbon type. Your answer can only be derived from ['BMG', 'Ribbon', 'NR’].”
+
+Question: What’s the metallic glass formation category of alloy composition Al84Fe4Ni12?
+
+You only need to give me the category from ['BMG', 'Ribbon', 'NR'] without answering the reasoning process. Please think with materials knowledge. If you don't know, you just say "I don't know".

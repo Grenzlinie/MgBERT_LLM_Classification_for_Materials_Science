@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al10Cu84Nd6 consists of 10% Aluminium, 84% Copper, and 6% Neodymium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/mol
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8×10−6 emu/mol
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: Mohs 3.2
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4×10−4 emu/mol
+
+Ionization Energy: 533.1 kJ/mol
+
+Electronegativity: 1.14
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al10Cu84Nd6 is a type of amorphous alloy, which means it does not have a regular crystal structure. This gives it a number of unique properties, including high strength, hardness, and corrosion resistance. The alloy is also lightweight and has a low coefficient of thermal expansion. These properties make it ideal for use in a variety of applications, including aerospace, automotive, and electronics.
+
+[ANSWER END]

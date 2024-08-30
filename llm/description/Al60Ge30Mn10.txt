@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al60Ge30Mn10 consists of 60% Aluminium, 30% Germanium, and 10% Manganese]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Germanium
+
+Element Radius: 122 pm
+
+Melting Point: 938.25 °C
+
+Boiling Point: 2833 °C
+
+Density: 5.323 g/cm³
+
+Hardness: 6.0 Mohs
+
+Electrical Conductivity: 2.2 MS/m
+
+Thermal Conductivity: 60.2 W/(m·K)
+
+Magnetic Susceptibility: −8.9×10−6 emu/g
+
+Ionization Energy: 762 kJ/mol
+
+Electronegativity: 2.01
+
+Element: Manganese
+
+Element Radius: 139 pm
+
+Melting Point: 1246 °C
+
+Boiling Point: 2060 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6.0 Mohs
+
+Electrical Conductivity: 6.99 MS/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 9.1×10−4 emu/g
+
+Ionization Energy: 717.3 kJ/mol
+
+Electronegativity: 1.55
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is likely to be a hard and brittle intermetallic compound. It may have a high melting point and low electrical and thermal conductivity. The alloy may also be magnetic.
+
+[ANSWER END]

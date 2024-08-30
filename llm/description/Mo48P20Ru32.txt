@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mo48P20Ru32 consists of 48% Molybdenum, 20% Phosphorus, and 32% Ruthenium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2896 K
+
+Boiling Point: 4912 K
+
+Density: 10.28 g/cm³
+
+Hardness: 150 HV
+
+Electrical Conductivity: 1.89×10^7 S/m
+
+Thermal Conductivity: 138 W/(m·K)
+
+Magnetic Susceptibility: -8.6×10^-6
+
+Ionization Energy: 7.09 eV
+
+Electronegativity: 2.16
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.82 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: 2.7×10^-6
+
+Ionization Energy: 10.49 eV
+
+Electronegativity: 2.19
+
+Element: Ruthenium
+
+Element Radius: 134 pm
+
+Melting Point: 2607 K
+
+Boiling Point: 4425 K
+
+Density: 12.45 g/cm³
+
+Hardness: 220 HV
+
+Electrical Conductivity: 1.47×10^7 S/m
+
+Thermal Conductivity: 117 W/(m·K)
+
+Magnetic Susceptibility: 3.1×10^-6
+
+Ionization Energy: 7.36 eV
+
+Electronegativity: 2.2
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mo48P20Ru32 is a ternary alloy composed of molybdenum, phosphorus, and ruthenium. It is a hard and brittle material with a high melting point. The alloy is resistant to corrosion and wear, and it has good electrical and thermal conductivity. Mo48P20Ru32 is used in a variety of applications, including high-temperature coatings, electrical contacts, and cutting tools.
+
+[ANSWER END]

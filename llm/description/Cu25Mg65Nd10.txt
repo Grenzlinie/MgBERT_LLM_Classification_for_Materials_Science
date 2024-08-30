@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu25Mg65Nd10 consists of 25% Copper, 65% Magnesium, and 10% Neodymium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10^-5
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: 3.2 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4×10^-4
+
+Ionization Energy: 533.1 kJ/mol
+
+Electronegativity: 1.14
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is likely to be a metallic glass, as it contains a high proportion of magnesium and neodymium, which are both glass-forming elements. Metallic glasses are amorphous, meaning that they do not have a regular crystal structure. This gives them a number of unique properties, such as high strength, hardness, and corrosion resistance. However, they are also typically brittle and difficult to machine.
+
+[ANSWER END]

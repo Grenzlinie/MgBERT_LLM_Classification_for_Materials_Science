@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg90Nd0Ni10 consists of 90% Magnesium, 0% Neodymium, and 10% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a magnesium-based alloy with a small amount of nickel added. Magnesium is a lightweight metal with good strength and corrosion resistance. Nickel is a strong and ductile metal that is often used to improve the strength and toughness of alloys. The addition of nickel to magnesium can improve the alloy's strength, hardness, and wear resistance. This alloy is often used in applications where lightweight and strength are important, such as in aerospace and automotive components.
+
+[ANSWER END]

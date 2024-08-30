@@ -1,0 +1,125 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr54Al15Ni10Cu19Y2 consists of 54% Zirconium, 15% Aluminium, 10% Nickel, 19% Copper, and 2% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4409 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.62×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 3.77×10^7 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.45×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.0 Mohs
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.8×10^6 S/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6×10^-4
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is expected to be hard and strong due to the presence of zirconium and aluminium. Nickel and copper may improve the corrosion resistance and electrical conductivity of the alloy. Yttrium may help to refine the grain structure and improve the mechanical properties of the alloy.
+
+[ANSWER END]

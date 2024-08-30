@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al22.5B10Tb67.5 consists of 22.5% Aluminium, 10% Boron, and 67.5% Terbium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 °C
+
+Boiling Point: 4000 °C
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: −0.47×10−5 emu/g
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Terbium
+
+Element Radius: 175 pm
+
+Melting Point: 1356 °C
+
+Boiling Point: 3230 °C
+
+Density: 8.23 g/cm³
+
+Hardness: Mohs 1.5
+
+Electrical Conductivity: 1.1 MS/m
+
+Thermal Conductivity: 11.1 W/(m·K)
+
+Magnetic Susceptibility: 290×10−5 emu/g
+
+Ionization Energy: 565.8 kJ/mol
+
+Electronegativity: 1.2
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is expected to be hard and brittle due to the presence of boron. Terbium is a rare-earth metal that is known for its magnetic properties. The alloy may exhibit magnetic properties due to the presence of terbium.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Nb65Si20V15 consists of 65% Niobium, 20% Silicon, and 15% Vanadium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Niobium
+
+Element Radius: 143 pm
+
+Melting Point: 2477 °C
+
+Boiling Point: 5127 °C
+
+Density: 8.57 g/cm³
+
+Hardness: 74 HV
+
+Electrical Conductivity: 6.7 MS/m
+
+Thermal Conductivity: 53.7 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-4
+
+Ionization Energy: 6.88 eV
+
+Electronegativity: 1.6
+
+Element: Silicon
+
+Element Radius: 111 pm
+
+Melting Point: 1414 °C
+
+Boiling Point: 3265 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 9.5 GPa
+
+Electrical Conductivity: 10^4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.19×10^-4
+
+Ionization Energy: 8.15 eV
+
+Electronegativity: 1.9
+
+Element: Vanadium
+
+Element Radius: 134 pm
+
+Melting Point: 1910 °C
+
+Boiling Point: 3407 °C
+
+Density: 6.11 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 5.0 MS/m
+
+Thermal Conductivity: 30.7 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10^-4
+
+Ionization Energy: 6.74 eV
+
+Electronegativity: 1.63
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Nb65Si20V15 is a high-strength, high-temperature alloy that is used in a variety of applications, including aerospace, automotive, and power generation. The alloy is composed of a mixture of niobium, silicon, and vanadium, which gives it a unique combination of properties. The niobium provides the alloy with its high strength and hardness, while the silicon and vanadium improve its oxidation resistance and creep strength. The alloy is also known for its good weldability and machinability.
+
+[ANSWER END]

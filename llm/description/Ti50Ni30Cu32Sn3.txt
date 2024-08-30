@@ -1,0 +1,103 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ti50Ni30Cu32Sn3 consists of 50% Titanium, 30% Nickel, 32% Copper, and 3% Tin]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.506 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 2.34 MS/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2 × 10−6
+
+Ionization Energy: 6.82 eV
+
+Electronegativity: 1.54
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 70 HV
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 7.64 eV
+
+Electronegativity: 1.91
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 37 HV
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8 × 10−6
+
+Ionization Energy: 7.72 eV
+
+Electronegativity: 1.90
+
+Element: Tin
+
+Element Radius: 1.58 Å
+
+Melting Point: 232 °C
+
+Boiling Point: 2270 °C
+
+Density: 7.31 g/cm³
+
+Hardness: 18 HV
+
+Electrical Conductivity: 9.17 MS/m
+
+Thermal Conductivity: 66.6 W/(m·K)
+
+Magnetic Susceptibility: −1.4 × 10−5
+
+Ionization Energy: 7.34 eV
+
+Electronegativity: 1.96
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a high-strength, corrosion-resistant material that is often used in aerospace and marine applications. It is also used in some medical devices. The alloy is composed of a mixture of titanium, nickel, copper, and tin. The titanium provides strength and hardness, while the nickel and copper provide corrosion resistance. The tin helps to improve the alloy's machinability.
+
+[ANSWER END]

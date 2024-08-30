@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Y4Fe72B22 consists of 4% Yttrium, 72% Iron, and 22% Boron]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 1.7 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6×10−4
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1538 °C
+
+Boiling Point: 2862 °C
+
+Density: 7.874 g/cm³
+
+Hardness: 80 HV
+
+Electrical Conductivity: 10.0 MS/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 6.7×10−4
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 °C
+
+Boiling Point: 4000 °C
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 GPa
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: −0.46×10−4
+
+Ionization Energy: 801 kJ/mol
+
+Electronegativity: 2.04
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+Y4Fe72B22 is a hard magnetic material with a high coercivity and a high remanence. It is used in permanent magnets, such as those found in electric motors and generators. The alloy is also used in magnetic recording media, such as hard disk drives and magnetic tape.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B1Cu70Zr29 consists of 1% Boron, 70% Copper, and 29% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 °C
+
+Boiling Point: 4200 °C
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -0.91×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.51 g/cm³
+
+Hardness: 5 Mohs
+
+Electrical Conductivity: 1.79 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8×10^-6
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a bulk metallic glass (BMG) with a high glass-forming ability (GFA). It has a high strength, high hardness, and good corrosion resistance. The alloy is also lightweight and has a low coefficient of thermal expansion.
+
+[ANSWER END]

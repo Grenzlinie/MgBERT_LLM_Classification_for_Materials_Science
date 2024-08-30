@@ -1,0 +1,107 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr63Al11.4Cu9.3Ni16.3 consists of 63% Zirconium, 11.4% Aluminium, 9.3% Copper, and 16.3% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4409 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.62×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 3.77×10^7 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Zr63Al11.4Cu9.3Ni16.3 is a bulk metallic glass (BMG) alloy. BMGs are a class of metallic alloys that exhibit a glassy structure, meaning they lack the long-range order of crystalline materials. This unique structure gives BMGs a number of desirable properties, including high strength, toughness, and corrosion resistance.
+
+The Zr63Al11.4Cu9.3Ni16.3 alloy is particularly notable for its high strength and toughness. It has a yield strength of approximately 1800 MPa and a fracture toughness of approximately 50 MPa√m. These properties make it a promising material for use in a variety of applications, including aerospace, automotive, and medical devices.
+
+The Zr63Al11.4Cu9.3Ni16.3 alloy is also known for its good corrosion resistance. It is resistant to a variety of corrosive environments, including seawater, acids, and bases. This makes it a good choice for use in marine applications and other harsh environments.
+
+[ANSWER END]

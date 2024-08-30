@@ -1,0 +1,103 @@
+[ANSWER BEGIN]
+
+Composition Information: [W46Ru37B12Si5 consists of 46% Tungsten, 37% Ruthenium, 12% Boron, and 5% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Tungsten
+
+Element Radius: 139 pm
+
+Melting Point: 3422 °C
+
+Boiling Point: 5930 °C
+
+Density: 19.25 g/cm³
+
+Hardness: 7.5 Mohs
+
+Electrical Conductivity: 1.8 × 10^7 S/m
+
+Thermal Conductivity: 173 W/(m·K)
+
+Magnetic Susceptibility: -0.66 × 10^-4
+
+Ionization Energy: 7.98 eV
+
+Electronegativity: 2.36
+
+Element: Ruthenium
+
+Element Radius: 134 pm
+
+Melting Point: 2334 °C
+
+Boiling Point: 4150 °C
+
+Density: 12.45 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 2.09 × 10^7 S/m
+
+Thermal Conductivity: 117 W/(m·K)
+
+Magnetic Susceptibility: 3.16 × 10^-4
+
+Ionization Energy: 7.36 eV
+
+Electronegativity: 2.2
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 °C
+
+Boiling Point: 4000 °C
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1 × 10^-6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.55 × 10^-4
+
+Ionization Energy: 8.29 eV
+
+Electronegativity: 2.04
+
+Element: Silicon
+
+Element Radius: 117.6 pm
+
+Melting Point: 1414 °C
+
+Boiling Point: 3265 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 7 Mohs
+
+Electrical Conductivity: 4.76 × 10^3 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.19 × 10^-4
+
+Ionization Energy: 8.15 eV
+
+Electronegativity: 1.9
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy W46Ru37B12Si5 is a hard and brittle material with a high melting point. It is resistant to wear and corrosion, and has good electrical and thermal conductivity. The alloy is used in a variety of applications, including cutting tools, electrical contacts, and heat sinks.
+
+[ANSWER END]

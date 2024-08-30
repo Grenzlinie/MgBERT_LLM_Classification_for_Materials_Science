@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Au54.6Cu36.4La9 consists of 54.6% Gold, 36.4% Copper, and 9% Lanthanum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Gold
+
+Element Radius: 144 pm
+
+Melting Point: 1337.33 K
+
+Boiling Point: 3129 K
+
+Density: 19.3 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 4.11×10^7 S/m
+
+Thermal Conductivity: 317 W/(m·K)
+
+Magnetic Susceptibility: -2.84×10^-5
+
+Ionization Energy: 890.1 kJ/mol
+
+Electronegativity: 2.54
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.9
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 1193 K
+
+Boiling Point: 3737 K
+
+Density: 6.16 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 1.8×10^6 S/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10^-4
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.1
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a ternary alloy composed of gold, copper, and lanthanum. It is a hard and strong alloy with a high melting point. It is also resistant to corrosion and wear. This alloy is used in a variety of applications, including jewelry, coins, and electrical contacts.
+
+[ANSWER END]

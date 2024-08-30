@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg70Ni20La10 consists of 70% Magnesium, 20% Nickel, and 10% Lanthanum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Lanthanum
+
+Element Radius: 187 pm
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.145 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 6.17 MS/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.2 × 10−4
+
+Ionization Energy: 538 kJ/mol
+
+Electronegativity: 1.1
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is expected to be lightweight due to the presence of magnesium, which is the lightest structural metal. Nickel and lanthanum can enhance the strength and corrosion resistance of the alloy. The combination of these elements may result in an alloy with good mechanical properties, corrosion resistance, and high-temperature performance. However, the actual properties of the alloy will depend on the specific processing conditions and heat treatment.
+
+[ANSWER END]

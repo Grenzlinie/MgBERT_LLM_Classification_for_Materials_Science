@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr65Cu12.5Be22.5 consists of 65% Zirconium, 12.5% Copper, and 22.5% Beryllium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.13×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Beryllium
+
+Element Radius: 112 pm
+
+Melting Point: 1560 K
+
+Boiling Point: 2742 K
+
+Density: 1.85 g/cm³
+
+Hardness: 5.5 Mohs
+
+Electrical Conductivity: 3.2×10^6 S/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: 1.1×10^-6
+
+Ionization Energy: 899.5 kJ/mol
+
+Electronegativity: 1.57
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a bulk metallic glass (BMG) with a high glass-forming ability. It has a high strength, high hardness, and good corrosion resistance. The alloy is also lightweight and has a low coefficient of thermal expansion.
+
+[ANSWER END]

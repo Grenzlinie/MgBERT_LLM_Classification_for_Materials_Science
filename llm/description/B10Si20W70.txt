@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B10Si20W70 consists of 10% Boron, 20% Silicon, and 70% Tungsten]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Silicon
+
+Element Radius: 117.6 pm
+
+Melting Point: 1687 K
+
+Boiling Point: 3538 K
+
+Density: 2.33 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.0×10^4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.19×10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Tungsten
+
+Element Radius: 139 pm
+
+Melting Point: 3695 K
+
+Boiling Point: 5828 K
+
+Density: 19.25 g/cm³
+
+Hardness: 7.5 Mohs
+
+Electrical Conductivity: 1.8×10^7 S/m
+
+Thermal Conductivity: 173 W/(m·K)
+
+Magnetic Susceptibility: 0.68×10^-6
+
+Ionization Energy: 770.0 kJ/mol
+
+Electronegativity: 2.36
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a metal matrix composite (MMC) consisting of tungsten reinforced with boron and silicon. MMCs are typically composed of a ductile metal matrix reinforced with a hard, ceramic material. The addition of boron and silicon to tungsten improves the alloy's strength, hardness, and wear resistance. This alloy is often used in applications where high strength and wear resistance are required, such as cutting tools, dies, and molds.
+
+[ANSWER END]

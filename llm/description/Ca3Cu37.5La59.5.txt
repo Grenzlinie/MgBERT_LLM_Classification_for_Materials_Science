@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ca3Cu37.5La59.5 consists of 3% Calcium, 37.5% Copper, and 59.5% Lanthanum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Calcium
+
+Element Radius: 1.97 Å
+
+Melting Point: 842 °C
+
+Boiling Point: 1484 °C
+
+Density: 1.55 g/cm³
+
+Hardness: 1.75 Mohs
+
+Electrical Conductivity: 2.82 × 10^7 S/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: -0.79 × 10^-6 emu/g
+
+Ionization Energy: 589.8 kJ/mol
+
+Electronegativity: 1.0
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 5.96 × 10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -0.91 × 10^-6 emu/g
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.9
+
+Element: Lanthanum
+
+Element Radius: 1.87 Å
+
+Melting Point: 920 °C
+
+Boiling Point: 3454 °C
+
+Density: 6.16 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 1.8 × 10^6 S/m
+
+Thermal Conductivity: 13.4 W/(m·K)
+
+Magnetic Susceptibility: 1.22 × 10^-4 emu/g
+
+Ionization Energy: 538.1 kJ/mol
+
+Electronegativity: 1.1
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ca3Cu37.5La59.5 is a ternary alloy composed of calcium, copper, and lanthanum. It is a relatively new alloy, and its properties are still being studied. However, it is known to be a hard and brittle material with a high melting point. The alloy is also a good conductor of electricity and heat.
+
+[ANSWER END]

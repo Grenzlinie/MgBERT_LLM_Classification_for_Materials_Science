@@ -1,0 +1,147 @@
+[ANSWER BEGIN]
+
+Composition Information: [Zr57Nb5Cu15.4Ni12.6B1Al10 consists of 57% Zirconium, 5% Niobium, 15.4% Copper, 12.6% Nickel, 1% Boron, and 10% Aluminium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.13×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10^-4
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+Element: Niobium
+
+Element Radius: 145 pm
+
+Melting Point: 2750 K
+
+Boiling Point: 5017 K
+
+Density: 8.57 g/cm³
+
+Hardness: 7.5 Mohs
+
+Electrical Conductivity: 7.07×10^6 S/m
+
+Thermal Conductivity: 53.7 W/(m·K)
+
+Magnetic Susceptibility: 1.1×10^-4
+
+Ionization Energy: 652.1 kJ/mol
+
+Electronegativity: 1.6
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.9
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.9 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2349 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^-6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: 0.46×10^-4
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Aluminium
+
+Element Radius: 125 pm
+
+Melting Point: 933.47 K
+
+Boiling Point: 2519 K
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 3.77×10^7 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10^-5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is a bulk metallic glass (BMG) with a high glass-forming ability (GFA). It has a high strength, high hardness, and good corrosion resistance. The alloy is also lightweight and has a low coefficient of thermal expansion.
+
+[ANSWER END]

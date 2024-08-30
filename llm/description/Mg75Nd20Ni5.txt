@@ -1,0 +1,85 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg75Nd20Ni5 consists of 75% Magnesium, 20% Neodymium, and 5% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: 3.2 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4 × 10−4
+
+Ionization Energy: 533 kJ/mol
+
+Electronegativity: 1.14
+
+Element: Nickel
+
+Element Radius: 125 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg75Nd20Ni5 is a lightweight and strong alloy with good corrosion resistance. It is used in a variety of applications, including aerospace, automotive, and medical. The alloy is typically produced by melting the constituent elements together and then casting or forging the resulting liquid into the desired shape.
+
+The properties of Mg75Nd20Ni5 are determined by the properties of its constituent elements. Magnesium is a lightweight metal with good strength and corrosion resistance. Neodymium is a rare earth metal that is used to improve the strength and ductility of the alloy. Nickel is a transition metal that is used to improve the strength and hardness of the alloy.
+
+The combination of these elements results in an alloy that is lightweight, strong, and corrosion resistant. Mg75Nd20Ni5 is also relatively easy to machine and weld, making it a versatile material for a variety of applications.
+
+[ANSWER END]

@@ -1,0 +1,147 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ti45Ni15Cu25Sn3Be7Zr5 consists of 45% Titanium, 15% Nickel, 25% Copper, 3% Tin, 7% Beryllium, and 5% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.506 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 2.34 MS/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2×10−6
+
+Ionization Energy: 6.82 eV
+
+Electronegativity: 1.54
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 70 HV
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10−4
+
+Ionization Energy: 7.64 eV
+
+Electronegativity: 1.91
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 37 HV
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: −9.8×10−6
+
+Ionization Energy: 7.72 eV
+
+Electronegativity: 1.90
+
+Element: Tin
+
+Element Radius: 1.58 Å
+
+Melting Point: 232 °C
+
+Boiling Point: 2270 °C
+
+Density: 7.31 g/cm³
+
+Hardness: 18 HV
+
+Electrical Conductivity: 9.17 MS/m
+
+Thermal Conductivity: 66.6 W/(m·K)
+
+Magnetic Susceptibility: 1.7×10−5
+
+Ionization Energy: 7.34 eV
+
+Electronegativity: 1.96
+
+Element: Beryllium
+
+Element Radius: 1.12 Å
+
+Melting Point: 1287 °C
+
+Boiling Point: 2970 °C
+
+Density: 1.85 g/cm³
+
+Hardness: 58 HV
+
+Electrical Conductivity: 31.7 MS/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10−6
+
+Ionization Energy: 9.32 eV
+
+Electronegativity: 1.57
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 1852 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 65 HV
+
+Electrical Conductivity: 4.13 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8×10−5
+
+Ionization Energy: 6.84 eV
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is likely to be a strong and lightweight material due to the presence of titanium and zirconium. The addition of nickel and copper may improve the alloy's corrosion resistance and strength. Beryllium may be added to improve the alloy's hardness and wear resistance. Tin may be added to improve the alloy's solderability.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg86Mn4Y10 consists of 86% Magnesium, 4% Manganese, and 10% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Manganese
+
+Element Radius: 135 pm
+
+Melting Point: 1246 °C
+
+Boiling Point: 2097 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.93 MS/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 9.1 × 10−4
+
+Ionization Energy: 717 kJ/mol
+
+Electronegativity: 1.55
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1523 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.8 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6 × 10−4
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg86Mn4Y10 is a lightweight and strong alloy that is often used in aerospace applications. It has a high strength-to-weight ratio and is resistant to corrosion. The alloy is also non-magnetic and has a low thermal expansion coefficient.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mn74P13Si13 consists of 74% Manganese, 13% Phosphorus, and 13% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Manganese
+
+Element Radius: 1.39 Å
+
+Melting Point: 1246 °C
+
+Boiling Point: 2097 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.99 × 10^6 S/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 1.6 × 10^-4
+
+Ionization Energy: 7.434 eV
+
+Electronegativity: 1.55
+
+Element: Phosphorus
+
+Element Radius: 1.10 Å
+
+Melting Point: 44.1 °C
+
+Boiling Point: 280 °C
+
+Density: 1.82 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -0.72 × 10^-4
+
+Ionization Energy: 10.487 eV
+
+Electronegativity: 2.19
+
+Element: Silicon
+
+Element Radius: 1.17 Å
+
+Melting Point: 1414 °C
+
+Boiling Point: 2355 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 4.76 × 10^3 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.46 × 10^-4
+
+Ionization Energy: 8.151 eV
+
+Electronegativity: 1.90
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a brittle intermetallic compound. It is hard and has a high melting point. It is also resistant to corrosion and wear.
+
+[ANSWER END]

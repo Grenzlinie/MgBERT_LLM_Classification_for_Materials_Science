@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B11.1Ni81.5P7.4 consists of 11.1% Boron, 81.5% Nickel, and 7.4% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.45×10^7 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.34×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 317.3 K
+
+Boiling Point: 553 K
+
+Density: 1.82 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: 1.67×10^-4
+
+Ionization Energy: 1048.7 kJ/mol
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of amorphous metal, also known as a metallic glass. It is composed of boron, nickel, and phosphorus. Amorphous metals are characterized by their lack of a regular crystalline structure, which gives them unique properties such as high strength, hardness, and corrosion resistance. This alloy is also known for its good magnetic properties, making it suitable for use in magnetic sensors and actuators.
+
+[ANSWER END]

@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al86Ni0Sm14 consists of 86% Aluminium, 0% Nickel, and 14% Samarium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/mol
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Samarium
+
+Element Radius: 185 pm
+
+Melting Point: 1072 °C
+
+Boiling Point: 1794 °C
+
+Density: 7.52 g/cm³
+
+Hardness: 4.8 Mohs
+
+Electrical Conductivity: 10.6 MS/m
+
+Thermal Conductivity: 13.3 W/(m·K)
+
+Magnetic Susceptibility: 1.64×10−4 emu/mol
+
+Ionization Energy: 544.5 kJ/mol
+
+Electronegativity: 1.17
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of aluminium-samarium alloy. Aluminium-samarium alloys are known for their high strength, good corrosion resistance, and low density. They are often used in aerospace, automotive, and marine applications. The addition of samarium to aluminium can improve the alloy's strength and hardness, while also reducing its density. This makes aluminium-samarium alloys a good choice for applications where weight is a concern.
+
+[ANSWER END]

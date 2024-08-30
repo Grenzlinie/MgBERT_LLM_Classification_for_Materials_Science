@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg65Cu25Pr10 consists of 65% Magnesium, 25% Copper, and 10% Praseodymium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 923 K
+
+Boiling Point: 1363 K
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8 × 10−6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Praseodymium
+
+Element Radius: 182 pm
+
+Melting Point: 1208 K
+
+Boiling Point: 3793 K
+
+Density: 6.77 g/cm³
+
+Hardness: Mohs 2.5
+
+Electrical Conductivity: 1.7 MS/m
+
+Thermal Conductivity: 12.5 W/(m·K)
+
+Magnetic Susceptibility: 5.7 × 10−4
+
+Ionization Energy: 525 kJ/mol
+
+Electronegativity: 1.13
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg65Cu25Pr10 is a lightweight and strong material with good corrosion resistance. It is also a good conductor of electricity and heat. The alloy is used in a variety of applications, including aerospace, automotive, and marine.
+
+[ANSWER END]

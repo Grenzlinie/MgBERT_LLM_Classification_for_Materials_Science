@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Y55Al25Co20 consists of 55% Yttrium, 25% Aluminium, and 20% Cobalt]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 1.7 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6×10−4 emu/mol
+
+Ionization Energy: 618.4 kJ/mol
+
+Electronegativity: 1.22
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 28 HV
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10−5 emu/mol
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1495 °C
+
+Boiling Point: 2927 °C
+
+Density: 8.9 g/cm³
+
+Hardness: 471 HV
+
+Electrical Conductivity: 16.9 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 110×10−6 emu/mol
+
+Ionization Energy: 760.4 kJ/mol
+
+Electronegativity: 1.88
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Y55Al25Co20 is a lightweight and strong material with good corrosion resistance. It is also a good conductor of electricity and heat. The alloy is used in a variety of applications, including aerospace, automotive, and medical.
+
+[ANSWER END]

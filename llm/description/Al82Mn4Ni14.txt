@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al82Mn4Ni14 consists of 82% Aluminium, 4% Manganese, and 14% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Manganese
+
+Element Radius: 139 pm
+
+Melting Point: 1246 °C
+
+Boiling Point: 2097 °C
+
+Density: 7.44 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 6.93 MS/m
+
+Thermal Conductivity: 7.8 W/(m·K)
+
+Magnetic Susceptibility: 9.2×10−5 emu/g
+
+Ionization Energy: 717.3 kJ/mol
+
+Electronegativity: 1.55
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.90 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4×10−5 emu/g
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of aluminium alloy that is known for its high strength and corrosion resistance. It is often used in aerospace applications, such as aircraft skins and structural components. The alloy is also used in automotive applications, such as engine blocks and pistons. The addition of manganese and nickel to the aluminium improves the alloy's strength and hardness.
+
+[ANSWER END]

@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [B20Mo80Si0 consists of 20% Boron, 80% Molybdenum, and 0% Silicon]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Molybdenum
+
+Element Radius: 139 pm
+
+Melting Point: 2896 K
+
+Boiling Point: 4912 K
+
+Density: 10.28 g/cm³
+
+Hardness: 5.5 Mohs
+
+Electrical Conductivity: 1.89×10^7 S/m
+
+Thermal Conductivity: 138 W/(m·K)
+
+Magnetic Susceptibility: 8.6×10^-6
+
+Ionization Energy: 702.1 kJ/mol
+
+Electronegativity: 2.16
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is not stable and does not exist.
+
+[ANSWER END]

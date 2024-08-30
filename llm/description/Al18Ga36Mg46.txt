@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al18Ga36Mg46 consists of 18% Aluminium, 36% Gallium, and 46% Magnesium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Gallium
+
+Element Radius: 136 pm
+
+Melting Point: 30.2 °C
+
+Boiling Point: 2204 °C
+
+Density: 5.91 g/cm³
+
+Hardness: 1.5 Mohs
+
+Electrical Conductivity: 3.86 MS/m
+
+Thermal Conductivity: 48.7 W/(m·K)
+
+Magnetic Susceptibility: −1.2×10−5 emu/g
+
+Ionization Energy: 578.8 kJ/mol
+
+Electronegativity: 1.81
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.74 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10−5 emu/g
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of metallic glass, which is a non-crystalline metal alloy with a disordered atomic structure. Metallic glasses are typically formed by rapidly cooling a molten alloy, which prevents the atoms from arranging themselves into a regular crystal lattice. This results in a material with a unique combination of properties, including high strength, hardness, and toughness. Metallic glasses are also known for their corrosion resistance and low thermal conductivity.
+
+[ANSWER END]

@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Be32.5Nb0Zr67.5 consists of 32.5% Beryllium, 0% Niobium, and 67.5% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Beryllium
+
+Element Radius: 112 pm
+
+Melting Point: 1287 °C
+
+Boiling Point: 2970 °C
+
+Density: 1.85 g/cm³
+
+Hardness: 6.0 Mohs
+
+Electrical Conductivity: 31.2 MS/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: -0.34×10^-6
+
+Ionization Energy: 9.322 eV
+
+Electronegativity: 1.57
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.72 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4×10^-4
+
+Ionization Energy: 6.844 eV
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Be32.5Nb0Zr67.5 is a glass-forming alloy. It is amorphous and has a high strength and hardness. The alloy is also resistant to corrosion and wear.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [C22Fe64W14 consists of 22% Carbon, 64% Iron, and 14% Tungsten]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Carbon
+
+Element Radius: 70 pm
+
+Melting Point: 3550 °C
+
+Boiling Point: 4827 °C
+
+Density: 2.26 g/cm³
+
+Hardness: 10
+
+Electrical Conductivity: 0 S/m
+
+Thermal Conductivity: 1.56 W/(m·K)
+
+Magnetic Susceptibility: -2.1×10−5
+
+Ionization Energy: 1086.5 kJ/mol
+
+Electronegativity: 2.5
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1538 °C
+
+Boiling Point: 2862 °C
+
+Density: 7.874 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 10.4 MS/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 2.5×10−4
+
+Ionization Energy: 760.4 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Tungsten
+
+Element Radius: 139 pm
+
+Melting Point: 3422 °C
+
+Boiling Point: 5930 °C
+
+Density: 19.25 g/cm³
+
+Hardness: 490 HV
+
+Electrical Conductivity: 18.6 MS/m
+
+Thermal Conductivity: 173 W/(m·K)
+
+Magnetic Susceptibility: -6.8×10−5
+
+Ionization Energy: 770 kJ/mol
+
+Electronegativity: 2.36
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of cemented carbide, which is a composite material consisting of carbide particles in a metal matrix. Cemented carbides are extremely hard and wear-resistant, making them suitable for use in cutting tools, drill bits, and other applications where high hardness is required. The properties of this alloy are likely to be similar to those of other cemented carbides, such as high hardness, wear resistance, and good strength.
+
+[ANSWER END]

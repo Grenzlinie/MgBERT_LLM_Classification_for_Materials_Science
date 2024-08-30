@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Au55Pb22.5Sb22.5 consists of 55% Gold, 22.5% Lead, and 22.5% Antimony]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Gold
+
+Element Radius: 144 pm
+
+Melting Point: 1337.33 K
+
+Boiling Point: 3129 K
+
+Density: 19.3 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 4.11×10^7 S/m
+
+Thermal Conductivity: 317 W/(m·K)
+
+Magnetic Susceptibility: -2.84×10^-5
+
+Ionization Energy: 890.1 kJ/mol
+
+Electronegativity: 2.54
+
+Element: Lead
+
+Element Radius: 175 pm
+
+Melting Point: 600.61 K
+
+Boiling Point: 2022 K
+
+Density: 11.34 g/cm³
+
+Hardness: 1.5
+
+Electrical Conductivity: 4.81×10^6 S/m
+
+Thermal Conductivity: 35.3 W/(m·K)
+
+Magnetic Susceptibility: -1.8×10^-5
+
+Ionization Energy: 715.6 kJ/mol
+
+Electronegativity: 2.33
+
+Element: Antimony
+
+Element Radius: 145 pm
+
+Melting Point: 903.78 K
+
+Boiling Point: 1860 K
+
+Density: 6.697 g/cm³
+
+Hardness: 3.0
+
+Electrical Conductivity: 3.1×10^6 S/m
+
+Thermal Conductivity: 24.4 W/(m·K)
+
+Magnetic Susceptibility: -1.32×10^-5
+
+Ionization Energy: 834 kJ/mol
+
+Electronegativity: 2.05
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a ternary alloy composed of gold, lead, and antimony. It is known for its low melting point and high electrical conductivity. The alloy is often used in electrical contacts, solders, and bearings.
+
+[ANSWER END]

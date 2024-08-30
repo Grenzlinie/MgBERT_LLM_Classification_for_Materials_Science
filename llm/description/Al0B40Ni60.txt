@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al0B40Ni60 consists of 0% Aluminium, 40% Boron, and 60% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 GPa
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.908 g/cm³
+
+Hardness: 7.0 GPa
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 6.0×10^-6
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a metal-metalloid-metal ternary alloy. It is expected to have a high melting point and a high boiling point. It is also expected to be hard and have good electrical and thermal conductivity. The magnetic susceptibility of this alloy is expected to be positive.
+
+[ANSWER END]

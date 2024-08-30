@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al69Ge25Mn6 consists of 69% Aluminium, 25% Germanium, and 6% Manganese]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 933.47 K
+
+Boiling Point: 2792 K
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Germanium
+
+Element Radius: 122 pm
+
+Melting Point: 1211.40 K
+
+Boiling Point: 3106 K
+
+Density: 5.323 g/cm³
+
+Hardness: 6.0 Mohs
+
+Electrical Conductivity: 2.2 MS/m
+
+Thermal Conductivity: 60.2 W/(m·K)
+
+Magnetic Susceptibility: −8.9×10−6
+
+Ionization Energy: 762 kJ/mol
+
+Electronegativity: 2.01
+
+Element: Manganese
+
+Element Radius: 139 pm
+
+Melting Point: 1519 K
+
+Boiling Point: 2334 K
+
+Density: 7.44 g/cm³
+
+Hardness: 6.0 Mohs
+
+Electrical Conductivity: 6.99 MS/m
+
+Thermal Conductivity: 7.81 W/(m·K)
+
+Magnetic Susceptibility: 9.1×10−4
+
+Ionization Energy: 717.3 kJ/mol
+
+Electronegativity: 1.55
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a promising candidate for use in high-temperature applications due to its high melting point and good thermal conductivity. It is also resistant to corrosion and wear.
+
+[ANSWER END]

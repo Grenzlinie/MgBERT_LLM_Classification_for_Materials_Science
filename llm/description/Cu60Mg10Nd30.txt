@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu60Mg10Nd30 consists of 60% Copper, 10% Magnesium, and 30% Neodymium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10^-5
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: 3.2 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4×10^-4
+
+Ionization Energy: 533.1 kJ/mol
+
+Electronegativity: 1.14
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of amorphous alloy, which means it does not have a regular crystal structure. Amorphous alloys are often very strong and hard, but they can also be brittle. This alloy is also known as a bulk metallic glass, which means it is a metallic alloy that has been cooled so quickly that it does not have time to crystallize. Bulk metallic glasses are often very strong and tough, but they can also be expensive to produce.
+
+[ANSWER END]

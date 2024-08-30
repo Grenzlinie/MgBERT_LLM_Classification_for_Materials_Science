@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [B5Fe80Zr15 consists of 5% Boron, 80% Iron, and 15% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 K
+
+Boiling Point: 4200 K
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10⁻⁶
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1811 K
+
+Boiling Point: 3134 K
+
+Density: 7.874 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 10.4 MS/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 2.33×10⁻⁴
+
+Ionization Energy: 760.4 kJ/mol
+
+Electronegativity: 1.83
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.511 g/cm³
+
+Hardness: 5 Mohs
+
+Electrical Conductivity: 1.79 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.55×10⁻⁵
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of amorphous metal, which means it does not have a regular crystalline structure. Amorphous metals are often very strong and hard, but they can also be brittle. This alloy is also known as a bulk metallic glass, which means it is a metallic alloy that has been cooled so quickly that it does not have time to crystallize. Bulk metallic glasses are often very strong and tough, but they can also be expensive to produce.
+
+[ANSWER END]

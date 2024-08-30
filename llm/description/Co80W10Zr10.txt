@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co80W10Zr10 consists of 80% Cobalt, 10% Tungsten, and 10% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Tungsten
+
+Element Radius: 139 pm
+
+Melting Point: 3695 K
+
+Boiling Point: 5828 K
+
+Density: 19.3 g/cm³
+
+Hardness: 7.5 Mohs
+
+Electrical Conductivity: 18.6 MS/m
+
+Thermal Conductivity: 173 W/(m·K)
+
+Magnetic Susceptibility: -6.7 × 10^-5
+
+Ionization Energy: 770 kJ/mol
+
+Electronegativity: 2.36
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.5 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 4.1 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8 × 10^-4
+
+Ionization Energy: 640 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a hard and wear-resistant material. It is often used in cutting tools and other applications where high strength and durability are required. The alloy is also resistant to corrosion and oxidation.
+
+[ANSWER END]

@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Nd60Fe20 consists of 60% Neodymium and 20% Iron]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: Mohs 2.5
+
+Electrical Conductivity: 1.4 × 10^6 S/m
+
+Thermal Conductivity: 20 W/(m·K)
+
+Magnetic Susceptibility: 1.9 × 10^-4
+
+Ionization Energy: 533.1 kJ/mol
+
+Electronegativity: 1.14
+
+Element: Iron
+
+Element Radius: 126 pm
+
+Melting Point: 1538 °C
+
+Boiling Point: 2862 °C
+
+Density: 7.874 g/cm³
+
+Hardness: Mohs 4.0
+
+Electrical Conductivity: 1.0 × 10^7 S/m
+
+Thermal Conductivity: 80.4 W/(m·K)
+
+Magnetic Susceptibility: 6.6 × 10^-4
+
+Ionization Energy: 760.4 kJ/mol
+
+Electronegativity: 1.83
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+Nd60Fe20 is a hard magnetic material with a high coercivity and a high remanence. It is used in permanent magnets, such as those found in electric motors, generators, and loudspeakers. The alloy is also used in magnetic recording media, such as hard disk drives and magnetic tape.
+
+[ANSWER END]

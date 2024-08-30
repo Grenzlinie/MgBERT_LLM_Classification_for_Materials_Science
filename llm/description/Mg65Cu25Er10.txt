@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg65Cu25Er10 consists of 65% Magnesium, 25% Copper, and 10% Erbium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8 × 10−6
+
+Ionization Energy: 745 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Erbium
+
+Element Radius: 180 pm
+
+Melting Point: 1529 °C
+
+Boiling Point: 2868 °C
+
+Density: 9.066 g/cm³
+
+Hardness: 8 Mohs
+
+Electrical Conductivity: 1.6 MS/m
+
+Thermal Conductivity: 14 W/(m·K)
+
+Magnetic Susceptibility: 3.7 × 10−4
+
+Ionization Energy: 615 kJ/mol
+
+Electronegativity: 1.24
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg65Cu25Er10 is a lightweight and strong material with good corrosion resistance. It is also a good conductor of electricity and heat. The alloy is used in a variety of applications, including aerospace, automotive, and marine.
+
+[ANSWER END]

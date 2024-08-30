@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ag60Mg20Y20 consists of 60% Silver, 20% Magnesium, and 20% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Silver
+
+Element Radius: 144 pm
+
+Melting Point: 961.78 °C
+
+Boiling Point: 2212 °C
+
+Density: 10.49 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 63.0 × 10^6 S/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: -2.06 × 10^-6
+
+Ionization Energy: 731 kJ/mol
+
+Electronegativity: 1.93
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 22.6 × 10^6 S/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2 × 10^-5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.472 g/cm³
+
+Hardness: 40
+
+Electrical Conductivity: 1.8 × 10^6 S/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6 × 10^-4
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ag60Mg20Y20 is a ternary alloy composed of silver, magnesium, and yttrium. The properties of this alloy are determined by the properties of its constituent elements. Silver is a soft, ductile, and malleable metal with high electrical and thermal conductivity. Magnesium is a lightweight metal with good strength and corrosion resistance. Yttrium is a rare earth metal with high melting and boiling points. The combination of these elements in Ag60Mg20Y20 results in an alloy with a high strength-to-weight ratio, good corrosion resistance, and high electrical and thermal conductivity. This alloy is often used in aerospace, automotive, and electronic applications.
+
+[ANSWER END]

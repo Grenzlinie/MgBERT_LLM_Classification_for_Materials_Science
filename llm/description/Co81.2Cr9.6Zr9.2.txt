@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co81.2Cr9.6Zr9.2 consists of 81.2% Cobalt, 9.6% Chromium, and 9.2% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Chromium
+
+Element Radius: 128 pm
+
+Melting Point: 2180 K
+
+Boiling Point: 2944 K
+
+Density: 7.19 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 9.2 MS/m
+
+Thermal Conductivity: 93.7 W/(m·K)
+
+Magnetic Susceptibility: 3.5 × 10^-4
+
+Ionization Energy: 658 kJ/mol
+
+Electronegativity: 1.66
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.51 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 4.1 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.8 × 10^-4
+
+Ionization Energy: 640 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of Co-Cr-Zr alloy. Co-Cr-Zr alloys are known for their high strength, hardness, and wear resistance. They are also corrosion-resistant and have good thermal conductivity. These alloys are often used in high-temperature applications, such as in gas turbines and jet engines.
+
+[ANSWER END]

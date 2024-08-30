@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Nb75Si20Ta5 consists of 75% Niobium, 20% Silicon, and 5% Tantalum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Niobium
+
+Element Radius: 143 pm
+
+Melting Point: 2477 °C
+
+Boiling Point: 5127 °C
+
+Density: 8.57 g/cm³
+
+Hardness: 70 HV
+
+Electrical Conductivity: 6.7 MS/m
+
+Thermal Conductivity: 53.7 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-4
+
+Ionization Energy: 6.883 eV
+
+Electronegativity: 1.6
+
+Element: Silicon
+
+Element Radius: 111 pm
+
+Melting Point: 1414 °C
+
+Boiling Point: 3265 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 9.5 GPa
+
+Electrical Conductivity: 10^-4 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.19×10^-4
+
+Ionization Energy: 8.151 eV
+
+Electronegativity: 1.9
+
+Element: Tantalum
+
+Element Radius: 146 pm
+
+Melting Point: 3017 °C
+
+Boiling Point: 5458 °C
+
+Density: 16.69 g/cm³
+
+Hardness: 180 HV
+
+Electrical Conductivity: 3.6 MS/m
+
+Thermal Conductivity: 57 W/(m·K)
+
+Magnetic Susceptibility: -0.35×10^-4
+
+Ionization Energy: 7.548 eV
+
+Electronegativity: 1.5
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Nb75Si20Ta5 is a ternary alloy composed of niobium, silicon, and tantalum. It is a hard and strong material with a high melting point. The alloy is also resistant to corrosion and oxidation. It is used in a variety of applications, including aerospace, automotive, and medical.
+
+[ANSWER END]

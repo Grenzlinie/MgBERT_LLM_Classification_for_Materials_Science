@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ni80P18W2 consists of 80% Nickel, 18% Phosphorus, and 2% Tungsten]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Nickel
+
+Element Radius: 1.24 Å
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.902 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 × 10^6 S/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Phosphorus
+
+Element Radius: 1.10 Å
+
+Melting Point: 44.1 °C
+
+Boiling Point: 280 °C
+
+Density: 1.823 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: -0.72 × 10^-4
+
+Ionization Energy: 1048.8 kJ/mol
+
+Electronegativity: 2.19
+
+Element: Tungsten
+
+Element Radius: 1.37 Å
+
+Melting Point: 3422 °C
+
+Boiling Point: 5660 °C
+
+Density: 19.25 g/cm³
+
+Hardness: 7.5 Mohs
+
+Electrical Conductivity: 18.6 × 10^6 S/m
+
+Thermal Conductivity: 173 W/(m·K)
+
+Magnetic Susceptibility: -0.68 × 10^-4
+
+Ionization Energy: 770.0 kJ/mol
+
+Electronegativity: 2.36
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ni80P18W2 is a nickel-based alloy with a high phosphorus content. This alloy has a high strength and hardness, as well as good corrosion resistance. It is often used in applications where these properties are important, such as in the aerospace and automotive industries.
+
+[ANSWER END]

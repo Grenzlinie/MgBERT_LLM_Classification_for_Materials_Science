@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al85Ni0Y15 consists of 85% Aluminium, 0% Nickel, and 15% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.47 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.9 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.06×10−4 emu/g
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al85Ni0Y15 is an aluminium-yttrium alloy. It is a lightweight, strong, and corrosion-resistant material. The addition of yttrium to aluminium improves the alloy's strength, hardness, and wear resistance. This alloy is often used in aerospace, automotive, and marine applications.
+
+[ANSWER END]

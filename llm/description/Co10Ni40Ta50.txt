@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co10Ni40Ta50 consists of 10% Cobalt, 40% Nickel, and 50% Tantalum]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.9 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10^-3
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Tantalum
+
+Element Radius: 146 pm
+
+Melting Point: 3290 K
+
+Boiling Point: 5730 K
+
+Density: 16.6 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 3.6 MS/m
+
+Thermal Conductivity: 57 W/(m·K)
+
+Magnetic Susceptibility: -1.6 × 10^-4
+
+Ionization Energy: 758 kJ/mol
+
+Electronegativity: 1.5
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a ternary alloy composed of cobalt, nickel, and tantalum. It is a hard and strong alloy with a high melting point. It is also resistant to corrosion and wear. This alloy is used in a variety of applications, including aerospace, automotive, and medical.
+
+[ANSWER END]

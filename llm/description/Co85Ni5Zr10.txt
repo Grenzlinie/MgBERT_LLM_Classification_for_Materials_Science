@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Co85Ni5Zr10 consists of 85% Cobalt, 5% Nickel, and 10% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Cobalt
+
+Element Radius: 125 pm
+
+Melting Point: 1768 K
+
+Boiling Point: 3200 K
+
+Density: 8.9 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 16.8 MS/m
+
+Thermal Conductivity: 100 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 760 kJ/mol
+
+Electronegativity: 1.88
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1728 K
+
+Boiling Point: 3186 K
+
+Density: 8.9 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.0 × 10^-3
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 2128 K
+
+Boiling Point: 4682 K
+
+Density: 6.5 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 4.1 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4 × 10^-4
+
+Ionization Energy: 640 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Co85Ni5Zr10 is a magnetic alloy. It is hard and has a high melting point. The alloy is also resistant to corrosion and wear. It is used in a variety of applications, including magnets, electrical contacts, and cutting tools.
+
+[ANSWER END]

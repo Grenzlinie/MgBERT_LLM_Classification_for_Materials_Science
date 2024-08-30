@@ -1,0 +1,85 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al36Ni30Zr34 consists of 36% Aluminium, 30% Nickel, and 34% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 2.75 Mohs
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.22×10−5 emu/g
+
+Ionization Energy: 577.9 kJ/mol
+
+Electronegativity: 1.61
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 6.0×10−4 emu/g
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1852 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 5.0 Mohs
+
+Electrical Conductivity: 1.8 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.4×10−4 emu/g
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Al36Ni30Zr34 is a ternary alloy composed of aluminium, nickel, and zirconium. It is a lightweight and strong alloy with good corrosion resistance. The alloy is typically used in aerospace applications, such as aircraft skins and frames. It is also used in automotive applications, such as engine blocks and pistons.
+
+The alloy Al36Ni30Zr34 has a face-centered cubic (FCC) crystal structure. The FCC crystal structure is a close-packed structure in which each atom is surrounded by 12 other atoms. This structure gives the alloy its high strength and toughness.
+
+The alloy Al36Ni30Zr34 is a good conductor of electricity and heat. It also has a low coefficient of thermal expansion, which means that it does not expand or contract much when heated or cooled. This makes the alloy ideal for use in applications where dimensional stability is important.
+
+[ANSWER END]

@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ca70Cu0Mg30 consists of 70% Calcium, 0% Copper, and 30% Magnesium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Calcium
+
+Element Radius: 197 pm
+
+Melting Point: 842 °C
+
+Boiling Point: 1484 °C
+
+Density: 1.55 g/cm³
+
+Hardness: 1.75 Mohs
+
+Electrical Conductivity: 2.82 × 10^7 S/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: -0.79 × 10^-6 cm³/mol
+
+Ionization Energy: 589.8 kJ/mol
+
+Electronegativity: 1.0
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 2.2 × 10^7 S/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2 × 10^-5 cm³/mol
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is not stable.
+
+[ANSWER END]

@@ -1,0 +1,87 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ca65Mg25Cu10 consists of 65% Calcium, 25% Magnesium, and 10% Copper]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Calcium
+
+Element Radius: 197 pm
+
+Melting Point: 842 °C
+
+Boiling Point: 1484 °C
+
+Density: 1.55 g/cm³
+
+Hardness: 1.75 Mohs
+
+Electrical Conductivity: 29.8 MS/m
+
+Thermal Conductivity: 200 W/(m·K)
+
+Magnetic Susceptibility: -0.72×10^-6 cm³/mol
+
+Ionization Energy: 589.8 kJ/mol
+
+Electronegativity: 1.0
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.2×10^-5 cm³/mol
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.2
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -0.97×10^-5 cm³/mol
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.9
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ca65Mg25Cu10 is a lightweight alloy with good strength and corrosion resistance. It is used in a variety of applications, including aerospace, automotive, and marine. The alloy is also used in some medical devices.
+
+The alloy is composed of a mixture of calcium, magnesium, and copper. The calcium provides strength and stiffness, while the magnesium provides ductility and toughness. The copper improves the alloy's corrosion resistance.
+
+The alloy is typically produced by melting the constituent elements together and then casting the molten metal into a mold. The alloy can also be produced by powder metallurgy.
+
+The alloy is heat treatable, which means that its properties can be changed by heating and cooling it in a controlled manner. Heat treatment can improve the alloy's strength, hardness, and toughness.
+
+[ANSWER END]

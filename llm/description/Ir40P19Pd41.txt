@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ir40P19Pd41 consists of 40% Iridium, 19% Phosphorus, and 41% Palladium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iridium
+
+Element Radius: 1.36 Å
+
+Melting Point: 2466 °C
+
+Boiling Point: 4428 °C
+
+Density: 22.56 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 19.3 MS/m
+
+Thermal Conductivity: 147 W/(m·K)
+
+Magnetic Susceptibility: -2.7×10−6 emu/g
+
+Ionization Energy: 880 kJ/mol
+
+Electronegativity: 2.20
+
+Element: Phosphorus
+
+Element Radius: 1.10 Å
+
+Melting Point: 44.1 °C
+
+Boiling Point: 280 °C
+
+Density: 1.82 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 0.01 MS/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: 0.0 emu/g
+
+Ionization Energy: 1049 kJ/mol
+
+Electronegativity: 2.19
+
+Element: Palladium
+
+Element Radius: 1.37 Å
+
+Melting Point: 1554 °C
+
+Boiling Point: 2963 °C
+
+Density: 12.02 g/cm³
+
+Hardness: 4.8 Mohs
+
+Electrical Conductivity: 9.8 MS/m
+
+Thermal Conductivity: 71.8 W/(m·K)
+
+Magnetic Susceptibility: 6.6×10−6 emu/g
+
+Ionization Energy: 804 kJ/mol
+
+Electronegativity: 2.20
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ir40P19Pd41 is a ternary alloy composed of iridium, phosphorus, and palladium. It is a hard and brittle material with a high melting point. The alloy is resistant to corrosion and wear, and it has good electrical and thermal conductivity. It is used in a variety of applications, including jewelry, dentistry, and electronics.
+
+[ANSWER END]

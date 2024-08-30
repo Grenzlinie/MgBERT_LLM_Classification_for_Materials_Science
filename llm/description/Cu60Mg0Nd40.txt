@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Cu60Mg0Nd40 consists of 60% Copper, 0% Magnesium, and 40% Neodymium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: 2.9 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4×10^-4
+
+Ionization Energy: 533.1 kJ/mol
+
+Electronegativity: 1.14
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is not stable because it contains a large amount of neodymium, which is a reactive metal. Neodymium is prone to oxidation and corrosion in air, and it can also react with other elements in the alloy, leading to the formation of brittle intermetallic compounds.
+
+[ANSWER END]

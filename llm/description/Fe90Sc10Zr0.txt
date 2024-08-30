@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Fe90Sc10Zr0 consists of 90% Iron, 10% Scandium, and 0% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iron
+
+Element Radius: 1.26 Angstroms
+
+Melting Point: 1538 Celsius Degree
+
+Boiling Point: 2862 Celsius Degree
+
+Density: 7.874 grams per cubic centimeter
+
+Hardness: 490 Vickers
+
+Electrical Conductivity: 10.6 mega-Siemens per meter
+
+Thermal Conductivity: 80.4 Watts per meter-Kelvin
+
+Magnetic Susceptibility: 2.36 x 10^-4
+
+Ionization Energy: 789.4 kilojoules per mole
+
+Electronegativity: 1.83
+
+Element: Scandium
+
+Element Radius: 1.62 Angstroms
+
+Melting Point: 1541 Celsius Degree
+
+Boiling Point: 2836 Celsius Degree
+
+Density: 2.985 grams per cubic centimeter
+
+Hardness: 310 Vickers
+
+Electrical Conductivity: 1.86 mega-Siemens per meter
+
+Thermal Conductivity: 15.8 Watts per meter-Kelvin
+
+Magnetic Susceptibility: 1.1 x 10^-4
+
+Ionization Energy: 633.1 kilojoules per mole
+
+Electronegativity: 1.36
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is likely to be a solid solution of scandium in iron. The addition of scandium to iron can improve the strength and toughness of the alloy. The alloy may also have improved corrosion resistance.
+
+[ANSWER END]

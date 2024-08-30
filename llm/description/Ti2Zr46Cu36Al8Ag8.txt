@@ -1,0 +1,125 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ti2Zr46Cu36Al8Ag8 consists of 2% Titanium, 46% Zirconium, 36% Copper, 8% Aluminium, and 8% Silver]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Titanium
+
+Element Radius: 1.47 Å
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.506 g/cm³
+
+Hardness: 60 HV
+
+Electrical Conductivity: 2.34 MS/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: -1.75×10−6
+
+Ionization Energy: 6.82 eV
+
+Electronegativity: 1.54
+
+Element: Zirconium
+
+Element Radius: 1.60 Å
+
+Melting Point: 1852 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.511 g/cm³
+
+Hardness: 130 HV
+
+Electrical Conductivity: 1.72 MS/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 1.44×10−6
+
+Ionization Energy: 6.63 eV
+
+Electronegativity: 1.33
+
+Element: Copper
+
+Element Radius: 1.28 Å
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 37 HV
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10−6
+
+Ionization Energy: 7.726 eV
+
+Electronegativity: 1.90
+
+Element: Aluminium
+
+Element Radius: 1.43 Å
+
+Melting Point: 660 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 28 HV
+
+Electrical Conductivity: 37.7 MS/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10−6
+
+Ionization Energy: 5.986 eV
+
+Electronegativity: 1.61
+
+Element: Silver
+
+Element Radius: 1.44 Å
+
+Melting Point: 962 °C
+
+Boiling Point: 2162 °C
+
+Density: 10.49 g/cm³
+
+Hardness: 25 HV
+
+Electrical Conductivity: 63.0 MS/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: -2.0×10−6
+
+Ionization Energy: 7.576 eV
+
+Electronegativity: 1.93
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy is expected to have high strength and hardness due to the presence of Titanium and Zirconium. Copper and Silver can improve the electrical and thermal conductivity of the alloy. Aluminium can reduce the density of the alloy. The alloy may have good corrosion resistance due to the presence of Aluminium and Silver.
+
+[ANSWER END]

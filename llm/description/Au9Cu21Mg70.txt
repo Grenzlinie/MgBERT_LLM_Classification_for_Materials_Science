@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Au9Cu21Mg70 consists of 9% Gold, 21% Copper, and 70% Magnesium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Gold
+
+Element Radius: 144 pm
+
+Melting Point: 1337.33 K
+
+Boiling Point: 3129 K
+
+Density: 19.3 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 4.11×10^7 S/m
+
+Thermal Conductivity: 317 W/(m·K)
+
+Magnetic Susceptibility: -2.84×10^-5
+
+Ionization Energy: 890.1 kJ/mol
+
+Electronegativity: 2.54
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3
+
+Electrical Conductivity: 5.96×10^7 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.9
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 923 K
+
+Boiling Point: 1363 K
+
+Density: 1.74 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 2.2×10^7 S/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: 1.22×10^-5
+
+Ionization Energy: 737.7 kJ/mol
+
+Electronegativity: 1.31
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of magnesium alloy. It is lightweight and has good strength and corrosion resistance. It is often used in aerospace applications.
+
+[ANSWER END]

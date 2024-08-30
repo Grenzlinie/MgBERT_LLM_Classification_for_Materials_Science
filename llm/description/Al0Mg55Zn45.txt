@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al0Mg55Zn45 consists of 0% Aluminium, 55% Magnesium, and 45% Zinc]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 923 K
+
+Boiling Point: 1363 K
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Zinc
+
+Element Radius: 139 pm
+
+Melting Point: 693 K
+
+Boiling Point: 1180 K
+
+Density: 7.14 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 16.6 MS/m
+
+Thermal Conductivity: 116 W/(m·K)
+
+Magnetic Susceptibility: -1.6 × 10−5
+
+Ionization Energy: 906 kJ/mol
+
+Electronegativity: 1.65
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a magnesium-zinc-based alloy. It is lightweight and has good corrosion resistance. It is also strong and ductile. This alloy is often used in automotive and aerospace applications.
+
+[ANSWER END]

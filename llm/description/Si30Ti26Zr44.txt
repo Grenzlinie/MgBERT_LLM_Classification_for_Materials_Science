@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Si30Ti26Zr44 consists of 30% Silicon, 26% Titanium, and 44% Zirconium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Silicon
+
+Element Radius: 111 pm
+
+Melting Point: 1414 °C
+
+Boiling Point: 2355 °C
+
+Density: 2.33 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 1.0×10^6 S/m
+
+Thermal Conductivity: 149 W/(m·K)
+
+Magnetic Susceptibility: -0.67×10^-6
+
+Ionization Energy: 786.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Titanium
+
+Element Radius: 147 pm
+
+Melting Point: 1668 °C
+
+Boiling Point: 3287 °C
+
+Density: 4.51 g/cm³
+
+Hardness: 6 Mohs
+
+Electrical Conductivity: 2.3×10^6 S/m
+
+Thermal Conductivity: 21.9 W/(m·K)
+
+Magnetic Susceptibility: 3.2×10^-6
+
+Ionization Energy: 658.8 kJ/mol
+
+Electronegativity: 1.54
+
+Element: Zirconium
+
+Element Radius: 160 pm
+
+Melting Point: 1855 °C
+
+Boiling Point: 4377 °C
+
+Density: 6.52 g/cm³
+
+Hardness: 5 Mohs
+
+Electrical Conductivity: 1.8×10^6 S/m
+
+Thermal Conductivity: 22.6 W/(m·K)
+
+Magnetic Susceptibility: 2.8×10^-6
+
+Ionization Energy: 640.1 kJ/mol
+
+Electronegativity: 1.33
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is likely to be a metallic glass, also known as an amorphous metal, due to the high content of zirconium. Metallic glasses are known for their high strength, hardness, and corrosion resistance. They are also non-magnetic and have a low coefficient of thermal expansion.
+
+[ANSWER END]

@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg20Nd30Ni50 consists of 20% Magnesium, 30% Neodymium, and 50% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Neodymium
+
+Element Radius: 185 pm
+
+Melting Point: 1024 °C
+
+Boiling Point: 3127 °C
+
+Density: 7.01 g/cm³
+
+Hardness: 3.2 Mohs
+
+Electrical Conductivity: 1.4 MS/m
+
+Thermal Conductivity: 26.5 W/(m·K)
+
+Magnetic Susceptibility: 3.4 × 10−4
+
+Ionization Energy: 533 kJ/mol
+
+Electronegativity: 1.14
+
+Element: Nickel
+
+Element Radius: 125 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.0 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Mg20Nd30Ni50 is a promising material for hydrogen storage applications due to its high hydrogen storage capacity and low cost. The alloy has a face-centered cubic (FCC) crystal structure and is composed of a mixture of MgH2, NdH2, and NiH2 phases. The hydrogen storage capacity of the alloy is approximately 3.5 wt%, which is significantly higher than that of pure magnesium (1.7 wt%). The alloy also exhibits good cycling stability and can be cycled over 100 times without significant loss of capacity.
+
+[ANSWER END]

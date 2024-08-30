@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Fe76Mo7P17 consists of 76% Iron, 7% Molybdenum, and 17% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Iron
+
+Element Radius: 1.26 Angstroms
+
+Melting Point: 1538 Celsius Degree
+
+Boiling Point: 2862 Celsius Degree
+
+Density: 7.874 grams per cubic centimeter
+
+Hardness: 490 Vickers
+
+Electrical Conductivity: 10.6 mega-Siemens per meter
+
+Thermal Conductivity: 80.4 Watts per meter-Kelvin
+
+Magnetic Susceptibility: 2.15 x 10^-4
+
+Ionization Energy: 760.2 kilojoules per mole
+
+Electronegativity: 1.83
+
+Element: Molybdenum
+
+Element Radius: 1.39 Angstroms
+
+Melting Point: 2623 Celsius Degree
+
+Boiling Point: 4639 Celsius Degree
+
+Density: 10.28 grams per cubic centimeter
+
+Hardness: 150 Vickers
+
+Electrical Conductivity: 18.1 mega-Siemens per meter
+
+Thermal Conductivity: 144 Watts per meter-Kelvin
+
+Magnetic Susceptibility: -8.6 x 10^-6
+
+Ionization Energy: 684.3 kilojoules per mole
+
+Electronegativity: 2.16
+
+Element: Phosphorus
+
+Element Radius: 1.10 Angstroms
+
+Melting Point: 44.1 Celsius Degree
+
+Boiling Point: 280 Celsius Degree
+
+Density: 1.82 grams per cubic centimeter
+
+Hardness: 30 Vickers
+
+Electrical Conductivity: 0.01 mega-Siemens per meter
+
+Thermal Conductivity: 0.236 Watts per meter-Kelvin
+
+Magnetic Susceptibility: 2.6 x 10^-4
+
+Ionization Energy: 1048.8 kilojoules per mole
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of steel that is known for its high strength and hardness. It is often used in applications where these properties are important, such as in automotive and aerospace components. The addition of molybdenum and phosphorus to the iron helps to improve the alloy's strength and hardness by forming a solid solution and strengthening the grain boundaries. This alloy is also known for its good corrosion resistance and wear resistance.
+
+[ANSWER END]

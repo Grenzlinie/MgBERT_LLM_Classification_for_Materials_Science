@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [B26C0Ni74 consists of 26% Boron, 0% Carbon, and 74% Nickel]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Boron
+
+Element Radius: 85 pm
+
+Melting Point: 2300 °C
+
+Boiling Point: 4200 °C
+
+Density: 2.34 g/cm³
+
+Hardness: 9.3 Mohs
+
+Electrical Conductivity: 1.0 MS/m
+
+Thermal Conductivity: 27.4 W/(m·K)
+
+Magnetic Susceptibility: -0.46×10^-6
+
+Ionization Energy: 800.6 kJ/mol
+
+Electronegativity: 2.04
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.908 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 1.3×10^-4
+
+Ionization Energy: 737.1 kJ/mol
+
+Electronegativity: 1.91
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is a type of amorphous metal, also known as a metallic glass. It is composed of boron and nickel, and it has a glassy structure rather than a crystalline structure. Amorphous metals are typically very strong and hard, and they have good corrosion resistance. They are also very brittle, which can make them difficult to work with.
+
+[ANSWER END]

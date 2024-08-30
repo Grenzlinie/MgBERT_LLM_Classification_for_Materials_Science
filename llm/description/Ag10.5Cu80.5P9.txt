@@ -1,0 +1,81 @@
+[ANSWER BEGIN]
+
+Composition Information: [Ag10.5Cu80.5P9 consists of 10.5% Silver, 80.5% Copper, and 9% Phosphorus]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Silver
+
+Element Radius: 144 pm
+
+Melting Point: 961.78 °C
+
+Boiling Point: 2212 °C
+
+Density: 10.49 g/cm³
+
+Hardness: 2.5
+
+Electrical Conductivity: 63.0 × 10^6 S/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: -2.06 × 10^-5
+
+Ionization Energy: 731 kJ/mol
+
+Electronegativity: 1.93
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1084.62 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3.0
+
+Electrical Conductivity: 59.6 × 10^6 S/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8 × 10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Phosphorus
+
+Element Radius: 110 pm
+
+Melting Point: 44.1 °C
+
+Boiling Point: 280 °C
+
+Density: 1.82 g/cm³
+
+Hardness: 2.0
+
+Electrical Conductivity: 0.01 × 10^6 S/m
+
+Thermal Conductivity: 0.236 W/(m·K)
+
+Magnetic Susceptibility: 1.67 × 10^-4
+
+Ionization Energy: 1048.7 kJ/mol
+
+Electronegativity: 2.19
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+The alloy Ag10.5Cu80.5P9 is a silver-copper-phosphorus alloy. It is a white metal with a high melting point and good electrical and thermal conductivity. The alloy is also hard and wear-resistant. It is used in a variety of applications, including electrical contacts, bearings, and springs.
+
+[ANSWER END]

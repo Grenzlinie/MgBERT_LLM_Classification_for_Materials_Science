@@ -1,0 +1,169 @@
+[ANSWER BEGIN]
+
+Composition Information: [Mg65Cu7.5Ni7.5Ag5Zn5Gd2.5Y7.5 consists of 65% Magnesium, 7.5% Copper, 7.5% Nickel, 5% Silver, 5% Zinc, 2.5% Gadolinium, and 7.5% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Magnesium
+
+Element Radius: 160 pm
+
+Melting Point: 650 °C
+
+Boiling Point: 1090 °C
+
+Density: 1.738 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 22.6 MS/m
+
+Thermal Conductivity: 156 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 738 kJ/mol
+
+Electronegativity: 1.31
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1085 °C
+
+Boiling Point: 2562 °C
+
+Density: 8.96 g/cm³
+
+Hardness: 3 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8 × 10−6
+
+Ionization Energy: 745 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Nickel
+
+Element Radius: 124 pm
+
+Melting Point: 1455 °C
+
+Boiling Point: 2732 °C
+
+Density: 8.90 g/cm³
+
+Hardness: 4 Mohs
+
+Electrical Conductivity: 14.3 MS/m
+
+Thermal Conductivity: 90.7 W/(m·K)
+
+Magnetic Susceptibility: 5.4 × 10−4
+
+Ionization Energy: 737 kJ/mol
+
+Electronegativity: 1.91
+
+Element: Silver
+
+Element Radius: 144 pm
+
+Melting Point: 962 °C
+
+Boiling Point: 2162 °C
+
+Density: 10.49 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 63.0 MS/m
+
+Thermal Conductivity: 429 W/(m·K)
+
+Magnetic Susceptibility: -2.0 × 10−5
+
+Ionization Energy: 731 kJ/mol
+
+Electronegativity: 1.93
+
+Element: Zinc
+
+Element Radius: 134 pm
+
+Melting Point: 419.5 °C
+
+Boiling Point: 907 °C
+
+Density: 7.14 g/cm³
+
+Hardness: 2.5 Mohs
+
+Electrical Conductivity: 16.6 MS/m
+
+Thermal Conductivity: 116 W/(m·K)
+
+Magnetic Susceptibility: -1.0 × 10−5
+
+Ionization Energy: 906 kJ/mol
+
+Electronegativity: 1.65
+
+Element: Gadolinium
+
+Element Radius: 180 pm
+
+Melting Point: 1312 °C
+
+Boiling Point: 3273 °C
+
+Density: 7.90 g/cm³
+
+Hardness: 6.5 Mohs
+
+Electrical Conductivity: 3.1 MS/m
+
+Thermal Conductivity: 10.6 W/(m·K)
+
+Magnetic Susceptibility: 2.0 × 10−4
+
+Ionization Energy: 593 kJ/mol
+
+Electronegativity: 1.20
+
+Element: Yttrium
+
+Element Radius: 178 pm
+
+Melting Point: 1526 °C
+
+Boiling Point: 3337 °C
+
+Density: 4.47 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.9 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.6 × 10−4
+
+Ionization Energy: 600 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+I do not know.
+
+[ANSWER END]

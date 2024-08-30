@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Er55Al25 consists of 55% Erbium, 25% Aluminium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Erbium
+
+Element Radius: 179 pm
+
+Melting Point: 1529 °C
+
+Boiling Point: 2868 °C
+
+Density: 9.066 g/cm³
+
+Hardness: 65 HV
+
+Electrical Conductivity: 1.1×10^6 S/m
+
+Thermal Conductivity: 14.3 W/(m·K)
+
+Magnetic Susceptibility: 3.5×10^-4
+
+Ionization Energy: 6.104 eV
+
+Electronegativity: 1.24
+
+Element: Aluminium
+
+Element Radius: 143 pm
+
+Melting Point: 660.32 °C
+
+Boiling Point: 2519 °C
+
+Density: 2.70 g/cm³
+
+Hardness: 28 HV
+
+Electrical Conductivity: 3.77×10^7 S/m
+
+Thermal Conductivity: 237 W/(m·K)
+
+Magnetic Susceptibility: 2.2×10^-5
+
+Ionization Energy: 5.9858 eV
+
+Electronegativity: 1.61
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+Erbium and aluminium are both relatively soft metals, so the alloy is likely to be soft as well. The alloy may have a low melting point, as both erbium and aluminium have relatively low melting points. The alloy may be resistant to corrosion, as both erbium and aluminium are resistant to corrosion. The alloy may be a good conductor of electricity, as both erbium and aluminium are good conductors of electricity.
+
+[ANSWER END]

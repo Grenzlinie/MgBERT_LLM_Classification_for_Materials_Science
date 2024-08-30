@@ -1,0 +1,59 @@
+[ANSWER BEGIN]
+
+Composition Information: [Al0Cu40Y60 consists of 0% Aluminium, 40% Copper, and 60% Yttrium]. 
+
+Element Information:
+
+[START ELEMENT INFORMATION]
+
+Element: Copper
+
+Element Radius: 128 pm
+
+Melting Point: 1357.77 K
+
+Boiling Point: 2835 K
+
+Density: 8.96 g/cm³
+
+Hardness: 3.9 Mohs
+
+Electrical Conductivity: 59.6 MS/m
+
+Thermal Conductivity: 401 W/(m·K)
+
+Magnetic Susceptibility: -9.8×10^-6
+
+Ionization Energy: 745.5 kJ/mol
+
+Electronegativity: 1.90
+
+Element: Yttrium
+
+Element Radius: 180 pm
+
+Melting Point: 1799 K
+
+Boiling Point: 3609 K
+
+Density: 4.472 g/cm³
+
+Hardness: 4.5 Mohs
+
+Electrical Conductivity: 1.9 MS/m
+
+Thermal Conductivity: 17.2 W/(m·K)
+
+Magnetic Susceptibility: 2.06×10^-4
+
+Ionization Energy: 618 kJ/mol
+
+Electronegativity: 1.22
+
+[END ELEMENT INFORMATION]
+
+Alloy Information:
+
+This alloy is not stable and will decompose into its constituent elements.
+
+[ANSWER END]

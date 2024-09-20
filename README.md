@@ -5,7 +5,7 @@
 This repository stores the source code and data for the paper 'A Prompt-Engineered Large Language Model, Deep Learning Workflow
 for Materials Classification' published in *Materials Today*.  
 arXiv link: [https://arxiv.org/abs/2401.17788](https://arxiv.org/abs/2401.17788)  
-Materials Today link: In Press.
+Materials Today link: [DOI: 10.1016/j.mattod.2024.08.028](https://www.sciencedirect.com/science/article/abs/pii/S1369702124002001).
 
 There are five folders here, namely the metallic glasses database source data folder, the large language model folder, the classification model folder, the model interpretation and visualization folder and the supplemetary_data_for_revision folder.  
 

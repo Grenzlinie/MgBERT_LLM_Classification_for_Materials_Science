@@ -66,3 +66,9 @@ GOOGLE_API_KEY='xxxxx'
 
  and load it with the `inference_template` file in `interpretability_and_visualization` folder.
 
+
+# Quick experience way:
+1. Download MgBERT weight to root dir: https://figshare.com/articles/software/MgBERT_pth/26879239
+2. Configure the environment as shown in Step 1.
+3. Run all blocks in `MgBERT_LLM_Classification_for_Materials_Science/single_inference_test.ipynb`.
+4. (Optional) in this case we test the result of composition `Mg59.5Cu22.9Ag6.6Gd11`. If you want to test other composition, just replace the content in `MgBERT_LLM_Classification_for_Materials_Science/test.txt` by AI generated description through our prompt template.

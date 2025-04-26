@@ -76,4 +76,4 @@ GOOGLE_API_KEY='xxxxx'
 - Multiple compositions:
     1. Download MgBERT weight to root dir: https://figshare.com/articles/software/MgBERT_pth/26879239
     2. Configure the environment as shown in Step 1.
-    3. Run all blocks in `MgBERT_LLM_Classification_for_Materials_Science/single_inference_test.ipynb`.
+    3. Run all blocks in `MgBERT_LLM_Classification_for_Materials_Science/multiple_inferences.ipynb`.
